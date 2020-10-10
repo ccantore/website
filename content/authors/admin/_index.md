@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research Economist at the Research Hub of the Bank of England and a Reader (Associate Professor) in Economics at the University of Surrey. I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the (http://cebra.org)[Central Bank Research Association]. 
+- I am a Senior Research Economist at the Research Hub of the Bank of England and a Reader (Associate Professor) in Economics at the University of Surrey. I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the (http://cebra.org)[Central Bank Research Association]. 
