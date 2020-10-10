@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Economist and Reader
+role: Senior Research Economist / Reader
 
 # Organizations/Affiliations
 organizations:
