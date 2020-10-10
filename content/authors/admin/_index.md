@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristiano
+title: Cristiano Cantore
 
 # Is this the primary user of the site?
 superuser: true
@@ -77,6 +77,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Research Economist at the Research Hub of the Bank of England and a Reader (Associate Professor) in Economics at the University of Surrey. I am also a member of the [Centre for Macroeconomics](<a href="http://www.centreformacroeconomics.ac.uk/Home.aspx">)
+I am a Senior Research Economist at the Research Hub of the Bank of England and a Reader (Associate Professor) in Economics at the University of Surrey. I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network] (https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org). 
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
