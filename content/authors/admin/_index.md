@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Economist
-role: Reader
+role: Senior Research Economist and Reader
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bank of England
+  url: ""
+- name: University of Surrey
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
