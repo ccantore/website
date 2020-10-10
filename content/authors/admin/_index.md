@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cristiano
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Economist/ Reader
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Bank of England
+  url: https://www.bankofengland.co.uk/research/researchers/cristiano-cantore
+- name: University of Surrey
+  url: https://www.surrey.ac.uk/people/cristiano-cantore
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
