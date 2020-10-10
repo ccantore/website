@@ -15,9 +15,9 @@ role: Senior Research Economist / Reader
 # Organizations/Affiliations
 organizations:
 - name: Bank of England
-  url: ""
+  url: "https://www.bankofengland.co.uk/research/researchers/cristiano-cantore"
 - name: University of Surrey
-  url: ""
+  url: "https://www.surrey.ac.uk/people/cristiano-cantore"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
