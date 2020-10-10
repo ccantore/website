@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristiano Cantore
+title: C Cantore
 
 # Username (this should match the folder name)
 authors:
