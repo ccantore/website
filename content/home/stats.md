@@ -1,7 +1,9 @@
+
+
+---
 widget="blank"
 headless = true  # This file represents a page section.
 
----
 title: Stats
 summary:
 date: 2020-10-11
@@ -12,15 +14,17 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=8360218;
