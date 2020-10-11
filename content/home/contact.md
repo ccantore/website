@@ -22,16 +22,3 @@ email_form = 2
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=8360218;
-var sc_invisible=0;
-var sc_security="35357c7d";
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="free web stats"
-href="http://statcounter.com/free-web-stats/" target="_blank"><img
-class="statcounter" src="http://c.statcounter.com/8360218/0/35357c7d/0/"
-alt="free web stats"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
