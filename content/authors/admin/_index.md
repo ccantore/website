@@ -49,8 +49,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/c_cantore
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap  # OR `google-scholar`
+  icon_pack: fas  # OR `ai`
   link: https://scholar.google.it/citations?user=4p5Mva8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
