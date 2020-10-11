@@ -1,5 +1,5 @@
 ---
-title: About
+title: Biography
 summary:
 date: 2020-10-11
 weight: 40
