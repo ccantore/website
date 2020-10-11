@@ -44,3 +44,9 @@
     name = "CV"
     url = "files/cv_cantore.pdf"
     weight = 20
+
+
+  [[main]]
+  name = ""
+  url = "#stats"
+  weight = 70
