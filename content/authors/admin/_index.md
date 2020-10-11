@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=4p5Mva8AAAAJ&hl=en
+- icon: ideas-repec
+  icon_pack: ai
+  link: https://ideas.repec.org/f/pca433.html
 - icon: github
   icon_pack: fab
   link: https://github.com/ccantore
