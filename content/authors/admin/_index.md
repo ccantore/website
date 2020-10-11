@@ -55,6 +55,15 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pca433.html
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1223988/cristiano-cantore-phd
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/cristiano-cantore/
+- icon: edit
+  icon_pack: fab
+  link: http://citec.repec.org/p/c/pca433.html
 - icon: github
   icon_pack: fab
   link: https://github.com/ccantore
