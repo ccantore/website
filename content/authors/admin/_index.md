@@ -62,7 +62,7 @@ social:
   icon_pack: ai
   link: https://www.mendeley.com/profiles/cristiano-cantore/
 - icon: edit
-  icon_pack: fab
+  icon_pack: fas
   link: http://citec.repec.org/p/c/pca433.html
 - icon: github
   icon_pack: fab
