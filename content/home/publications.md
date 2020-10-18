@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = "select"
     category = ""
-    publication_type = "3"
+    publication_type = ""
     exclude_featured = false
 
 [design]
