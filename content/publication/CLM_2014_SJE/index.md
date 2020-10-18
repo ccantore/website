@@ -16,7 +16,7 @@ publishDate: 2014-04-07T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Scandinavian Journal of Economics***, vol. 116(3), pages 669-701, July."
+publication: "***Scandinavian Journal of Economics***, vol. 116(3), pages 669-701, July"
 publication_short: ""
 
 abstract: "We analyze the effects of a government-spending expansion in a dynamic stochastic general equilibrium model with Mortensen–Pissarides labor-market frictions, deep habits in private and public consumption, investment adjustment costs, a constant elasticity of substitution (CES) production function, and adjustments in employment at both intensive and extensive margins. The combination of deep habits and CES technology is crucial. The presence of deep habits magnifies the responses of macroeconomic variables to a fiscal stimulus, while an elasticity of substitution between capital and labor in the range of available estimates allows the model to produce a scenario compatible with the observed jobless recovery."

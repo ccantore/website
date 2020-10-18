@@ -72,7 +72,7 @@ social:
   link: https://www.linkedin.com/in/cristiano-cantore-28061b26/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -90,11 +90,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org). 
+I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
 <ul>
-<li><span style="color:blue">[October 2020]]</span> New version of Workers Capitalists...</li>
+<li><span style="color:blue">[October 2020]</span> New version of Workers Capitalists...</li>
 <li>Discussion ....</li>
 </ul>
 
