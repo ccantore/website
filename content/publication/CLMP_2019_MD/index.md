@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CES technology and business cycle fluctuations"
+title: "Optimal Fiscal And Monetary Policy, Debt Crisis, And Management"
 authors: ["Cristiano Cantore", "Paul Levine", "Joseph Pearlman", "Bo Yang"]
-date: 2015-10-30
-doi: "10.1016/j.jedc.2015.09.00"
+date: 2017-07-20
+doi: "10.1017/S1365100517000207"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-10-30T22:11:49+01:00
