@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "***Macroeconomic Dynamics***, vol. 23(3), pages 1166-1204, April"
 publication_short: ""
 
-abstract: "p"
+abstract: "The initial government debt-to-gross domestic product (GDP) ratio and the government's commitment play a pivotal role in determining the welfare-optimal speed of fiscal consolidation in the management of a debt crisis. Under commitment, for low or moderate initial government debt-to-GDP ratios, the optimal consolidation is very slow. A faster pace is optimal when the economy starts from a high level of public debt implying high sovereign risk premia, unless these are suppressed via a bailout by official creditors. Under discretion, the cost of not being able to commit is reflected into a quick consolidation of government debt. Simple monetary-fiscal rules with passive fiscal policy, designed for an environment with 'normal shocks' perform reasonably well in mimicking the Ramsey-optimal response to one-off government debt shocks. When the government can issue also long-term bonds -under commitment- the optimal debt consolidation pace is slower than in the case of short-term bonds only, and entails an increase in the ratio between long- and short-term bonds."
 
 # Summary. An optional shortened abstract.
 summary: ""
