@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CES technology and business cycle fluctuations"
-authors: ["Cristiano Cantore", "Paul Levine", "Joseph Pearlman", "Bo Yang"]
-date: 2015-10-30
-doi: "10.1016/j.jedc.2015.09.00"
+title: "The dynamics of hours worked and technology"
+authors: ["Cristiano Cantore", "Filippo Ferroni", "Miguel León-Ledesma"]
+date: 2017-05-31
+doi: "10.1016/j.jedc.2017.05.00"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-10-30T22:11:49+01:00
