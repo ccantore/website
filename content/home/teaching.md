@@ -16,7 +16,7 @@ header:
 ---
 #### Autumn 2020
 
-* Macroeconomics (MRes)
+* Macroeconomics (MRes University of Surrey)
 
 #### Past Teaching
 

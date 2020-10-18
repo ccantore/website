@@ -15,10 +15,11 @@ design:
   columns: "2"
   background:
     image: headers/header-background.jpg
+    image_darken: 0.6
     image_parallax: true
-    image_position: center
+    image_position: left
     image_size: cover
- #   text_color_light: true
+    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
