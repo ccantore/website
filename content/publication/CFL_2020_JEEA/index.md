@@ -40,7 +40,26 @@ links:
   url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share.pdf?la=en&hash=A322DA7BFBCEE59B4093807B8D3A88682DB45713"
 
 - name: Online Appendix
-  url: "https://www.dropbox.com/s/09aw7qiy32k93zr/CCFFMLL_appendix_all_May_10_final.pdf?dl=0"
+  url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share-appendix.pdf?la=en&hash=E5B6718B66E8AED82B78761E812BDE3BE58C4E7F"
+
+- name: BoE SWP
+  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13551"
+
+- name: Codes
+  url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jeea/PAP/10.1093_jeea_jvaa034/2/jvaa034_replication_codes_cantore_ferroni_leon_ledesma.zip?Expires=1606069377&Signature=4bdi4VOb-I8S39jJXeiK6tnTYxfJaEmO5ICONA8XL-~BL~uzo472w7L6xfmoBNnUFN-w4y9GJMnmrj9TjTqs~30tl3itzUGr~KsABzcPM5m46RUm4frW4ZD9PZdFdv5UVsmD6KuJoRpVitK2IsFRREed3pRnezWCPuoH-Ar7~4sijUO-vKJ0hEhbneXjhsEto4CI9~ugo3Cas~jP-wJGNhMAZ87M49rlbDLgBVj7QHLwtIHdumjBua299j33H40owTU~P8p8w4ARaknaXmps8ceHu00GEOeF7PwlKgeT1UFQemR14ceA5-xQPSAbAS32jVORuJ~Gu9uMMebxLrUOdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+
+- name: Bank Underground
+  url: "https://bankunderground.co.uk/2019/03/27/the-missing-link-monetary-policy-and-the-labor-share/"
+
+- name: VoXEU
+  url: "https://voxeu.org/article/monetary-policy-and-labour-share"
+
+- name: Bloomberg view
+  url: "https://www.bloomberg.com/opinion/articles/2019-04-23/modern-monetary-theory-austrian-economics-deserve-skepticism"
+
+- name: Slides
+  url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jeea/PAP/10.1093_jeea_jvaa034/2/jvaa034_ccffll_teaching_slides_pres_missing_link.pdf?Expires=1606069377&Signature=fyD9DUQNbV7Jr6zWSmOQdLXpvIBIq86pLZQrlwxQ8z~siZQzSj~vyQywlNLmbzYtg9LJDmGiK3l3nLKXg9r65x-0lr0qV9I5Pbj1ecE0lLMzIPeaylGkbiyblaHCE-IH5VEswSoFDVb7h1w6I80MujrtZ4PVnhGXF7Ap-7qKwSGZSr6b6HxcANL3sxCMdIJzwpeFDq8mskV7fF-WOL3-k0rOk~J8dZD3P9ShvIwN0spDPcSlhXZd-e~Bq6E2SEL-KocY8UfsbP7KjBcr3pl8eLCy6DHUrymMwzL8WoEI1wewiGOC4jXrmnokbMCPzvVJeVbH2~xvb-ZND670QYd3QA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+
 
 url_pdf:
 url_dataset:
