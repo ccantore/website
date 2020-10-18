@@ -7,7 +7,7 @@ date: 2017-07-20
 doi: "10.1017/S1365100517000207"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-10-30T22:11:49+01:00
+publishDate: 2017-07-20T22:11:49+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2015-10-30T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Economic Dynamics and Control***, vol. 61(C), pages 133-151"
+publication: "***Macroeconomic Dynamics***, vol. 23(3), pages 1166-1204, April"
 publication_short: ""
 
 abstract: "We contribute to an emerging literature that brings the constant elasticity of substitution (CES) specification of the production function into the analysis of business cycle fluctuations. Using US data, we estimate by Bayesian-Maximum-Likelihood methods a standard medium-sized DSGE model with a CES rather than Cobb–Douglas (CD) technology. We estimate a elasticity of substitution between capital and labour well below unity at 0.15–0.18. In a marginal likelihood race CES decisively beats the CD production and this is matched by its ability to fit the data better in terms of second moments. We show that this result is mainly driven by the implied fluctuations of factor shares under the CES specification. The CES model performance is further improved when the estimation is carried out under an imperfect information assumption. Hence the main message for DSGE models is that we should dismiss once and for all the use of CD for business cycle analysis."
