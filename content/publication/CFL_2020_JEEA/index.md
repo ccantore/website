@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "***Journal of the European Economic Association***, *Forthcoming*"
 publication_short: ""
 
-abstract: "The response of hours worked to technology shocks in the postwar US economy has increased over time. We offer a structural interpretation of this important time-varying macroeconomic moment. The time varying patterns captured by a structural VAR are consistent with those obtained from a parsimonious RBC model with a less than unitary elasticity of substitution between capital and labour (σ). The observed changes in the response of hours are attributable to increases in the magnitude of the degree of capital-labour substitution. Finally, we conjecture that the observed time-variation in σ is related to changes in the skill composition of the work force and biases in technological change."
+abstract: "The textbook New Keynesian (NK) model implies that the labor share is procyclical conditional on a monetary policy shock. We present evidence that a monetary policy tightening robustly increased the labor share and decreased real wages during the Great Moderation period in the United States, the Euro Area, the United Kingdom, Australia, and Canada. We show that this is inconsistent not only with the basic NK model, but also with medium-scale NK models commonly used for monetary policy analysis and where it is possible to break the direct link between the labor share and the inverse markup. Our results imply that either NK models are unable to separate the dynamics of the labor share from the markup or markups do not respond in the way NK models predict."
 
 # Summary. An optional shortened abstract.
 summary: ""
