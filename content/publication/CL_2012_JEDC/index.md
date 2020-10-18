@@ -31,8 +31,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Presentation
-  url: 
+#- name: Presentation
+#  url: 
 - name: Ungated
   url: "https://www.dynare.org/wp-repo/dynarewp009.pdf"
 
