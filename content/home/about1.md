@@ -12,10 +12,10 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: headers/header-background.jpg
-    image_darken: 0.6
+  #  image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
