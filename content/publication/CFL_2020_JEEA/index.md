@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "***Journal of the European Economic Association***, *Forthcoming*"
 publication_short: ""
 
-abstract: "The textbook New Keynesian (NK) model implies that the labor share is procyclical conditional on a monetary policy shock. We present evidence that a monetary policy tightening robustly increased the labor share and decreased real wages during the Great Moderation period in the United States, the Euro Area, the United Kingdom, Australia, and Canada. We show that this is inconsistent not only with the basic NK model, but also with medium-scale NK models commonly used for monetary policy analysis and where it is possible to break the direct link between the labor share and the inverse markup. Our results imply that either NK models are unable to separate the dynamics of the labor share from the markup or markups do not respond in the way NK models predict."
+abstract: "The response of hours worked to technology shocks in the postwar US economy has increased over time. We offer a structural interpretation of this important time-varying macroeconomic moment. The time varying patterns captured by a structural VAR are consistent with those obtained from a parsimonious RBC model with a less than unitary elasticity of substitution between capital and labour (σ). The observed changes in the response of hours are attributable to increases in the magnitude of the degree of capital-labour substitution. Finally, we conjecture that the observed time-variation in σ is related to changes in the skill composition of the work force and biases in technological change."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,16 +34,13 @@ links:
 #- name: Presentation
 #  url:
 - name: Published Version
-  url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvaa034/5884931"
+  url: "http://www.sciencedirect.com/science/article/pii/S016518891730115X"
 
-- name: BoE SWP
-  url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share.pdf?la=en&hash=A322DA7BFBCEE59B4093807B8D3A88682DB45713"
+- name: Ungated
+  url: "https://www.dropbox.com/s/c65g6rybtd944m3/CCFFMLL_R%26R_JEDC.pdf?dl=0%20title="
 
 - name: Online Appendix
-  url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share-appendix.pdf?la=en&hash=E5B6718B66E8AED82B78761E812BDE3BE58C4E7F"
-
-- name: CEPR WP
-    url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13551"
+  url: "https://www.dropbox.com/s/09aw7qiy32k93zr/CCFFMLL_appendix_all_May_10_final.pdf?dl=0"
 
 url_pdf:
 url_dataset:
