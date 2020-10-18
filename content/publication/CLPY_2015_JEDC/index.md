@@ -36,10 +36,10 @@ links:
 - name: Published Version
   url: "http://www.sciencedirect.com/science/article/pii/S0165188915001736"
 
-- name: Online Appendix
+- name: Ungated
   url: "https://www.dropbox.com/s/s003fv0ktkqc0e9/CES_JEDC_resubmission_v6_Final.pdf?dl=0"
 
-- name: Codes
+- name: Online Appendix
   url: "https://www.dropbox.com/s/rpgzdxdal1y9em5/CES_JEDC_resubmission_v6_Online_Appendix.pdf?dl=0"
 
 url_pdf:
