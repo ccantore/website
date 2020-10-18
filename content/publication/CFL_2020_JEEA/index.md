@@ -34,10 +34,10 @@ links:
 #- name: Presentation
 #  url:
 - name: Published Version
-  url: "http://www.sciencedirect.com/science/article/pii/S016518891730115X"
+  url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvaa034/5884931"
 
-- name: Ungated
-  url: "https://www.dropbox.com/s/c65g6rybtd944m3/CCFFMLL_R%26R_JEDC.pdf?dl=0%20title="
+- name: BoE SWP
+  url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share.pdf?la=en&hash=A322DA7BFBCEE59B4093807B8D3A88682DB45713"
 
 - name: Online Appendix
   url: "https://www.dropbox.com/s/09aw7qiy32k93zr/CCFFMLL_appendix_all_May_10_final.pdf?dl=0"
