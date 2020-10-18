@@ -42,8 +42,8 @@ links:
 - name: Online Appendix
   url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share-appendix.pdf?la=en&hash=E5B6718B66E8AED82B78761E812BDE3BE58C4E7F"
 
-- name: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13551
-    url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share.pdf?la=en&hash=A322DA7BFBCEE59B4093807B8D3A88682DB45713"
+- name: CEPR WP
+    url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13551"
 
 url_pdf:
 url_dataset:
