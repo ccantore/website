@@ -94,7 +94,7 @@ I am a Senior Research Economist at the Research Hub of the [Bank of England](ht
 
 **What's new**
 <ul>
-<li>New version of Workers Capitalists.../li>
+<li>New version of Workers Capitalists...</li>
 <li>Discussion ....</li>
 </ul>
 
