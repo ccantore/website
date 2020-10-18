@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A fiscal stimulus with deep habits and optimal monetary policy"
-authors: ["Cristiano Cantore", "Paul Levine", "Giovanni Melina", "Bo Yang"]
-date: 2012-06-08
-doi: "10.1016/j.econlet.2012.05.051"
+title: "A Fiscal Stimulus and Jobless Recovery"
+authors: ["Cristiano Cantore", "Paul Levine", "Giovanni Melina"]
+date: 2014-04-07
+doi: "10.1111/sjoe.12066"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2012-06-08T22:11:49+01:00
+publishDate: 2014-04-07T22:11:49+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2012-06-08T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Economics Letters***, vol. 117(1), pages 348-353"
+publication: "***Scandinavian Journal of Economics***, vol. 116(3), pages 669-701, July."
 publication_short: ""
 
-abstract: "A New-Keynesian model with deep habits and optimal monetary policy delivers a larger-than-1 fiscal multiplier and consumption crowding in. Optimized Taylor-type rules dominate a conventional Taylor rule. Consumption is crowded out if the Taylor rule is suboptimal or if commitment is absent."
+abstract: "We analyze the effects of a government-spending expansion in a dynamic stochastic general equilibrium model with Mortensen–Pissarides labor-market frictions, deep habits in private and public consumption, investment adjustment costs, a constant elasticity of substitution (CES) production function, and adjustments in employment at both intensive and extensive margins. The combination of deep habits and CES technology is crucial. The presence of deep habits magnifies the responses of macroeconomic variables to a fiscal stimulus, while an elasticity of substitution between capital and labor in the range of available estimates allows the model to produce a scenario compatible with the observed jobless recovery."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,13 +34,13 @@ links:
 #- name: Presentation
 #  url:
 - name: Published Version
-  url: "http://www.sciencedirect.com/science/article/pii/S0165176512003199"
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/sjoe.12066"
 
 - name: Ungated
-  url: "https://repec.som.surrey.ac.uk/2012/DP05-12.pdf"
+  url: "http://onlinelibrary.wiley.com/doi/10.1111/sjoe.12066/abstract"
 
-#- name: Codes
-#  url: "https://www.dynare.org/wp-repo/dynarewp009.zip"
+- name: Online Appendix
+  url: "https://www.dropbox.com/s/b4ctarbu4azut7a/CML_SJE_appendix.pdf?dl=0"
 
 url_pdf:
 url_dataset:
