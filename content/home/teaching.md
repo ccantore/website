@@ -20,8 +20,8 @@ header:
 
 #### Past Teaching
 
-Macroeconomics at all levels.
+University of Surrey: Macroeconomics at all levels; International trade and Data analyisis at undergraduate level.
 
-Dynare summer schools at Surrey and worldwide.
+Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey or in New Delhi, Porto, Glasgow, Birmingham, Cagliari, Abuja and Berlin. 
 
 
