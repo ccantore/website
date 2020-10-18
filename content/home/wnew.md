@@ -10,10 +10,5 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 
-
----
-design:
-  columns: "2"
-
 ---
 New version of Workers Capitalists...
