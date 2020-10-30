@@ -94,8 +94,9 @@ I am a Senior Research Economist at the Research Hub of the [Bank of England](ht
 
 **What's new?**
 <ul>
-<li><span style="color:blue">[October 2020]</span> New version of Workers Capitalists...</li>
-<li>Discussion ....</li>
+<li><span style="color:blue">[October 2020]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.inet.econ.cam.ac.uk/working-paper-pdfs/wp2044.pdf)</li>
+<li><span style="color:blue">[October 2020]</span> [Discussion](https://www.dropbox.com/s/fgkshuigdvx7lv5/discussion_Lewis-Vasquez-Grande_Cantore.pdf?dl=0) of Measuring the Natural Rate of Interest:
+A Note on Transitory Shocks by Kurt F. Lewis and Francisco Vazquez-Grande</li>
 </ul>
 
 
