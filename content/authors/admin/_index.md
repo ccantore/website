@@ -93,11 +93,10 @@ user_groups:
 I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
-<ul>
-<li><span style="color:blue">[October 2020]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.inet.econ.cam.ac.uk/working-paper-pdfs/wp2044.pdf)</li>
-<li><span style="color:blue">[October 2020]</span> [Discussion](https://www.dropbox.com/s/fgkshuigdvx7lv5/discussion_Lewis-Vasquez-Grande_Cantore.pdf?dl=0) of Measuring the Natural Rate of Interest:
-A Note on Transitory Shocks by Kurt F. Lewis and Francisco Vazquez-Grande</li>
-</ul>
+<span style="color:blue">[October 2020]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.inet.econ.cam.ac.uk/working-paper-pdfs/wp2044.pdf)
+<span style="color:blue">[October 2020]</span> [Discussion](https://www.dropbox.com/s/fgkshuigdvx7lv5/discussion_Lewis-Vasquez-Grande_Cantore.pdf?dl=0) of Measuring the Natural Rate of Interest:
+A Note on Transitory Shocks by Kurt F. Lewis and Francisco Vazquez-Grande
+
 
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. --->
