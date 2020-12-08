@@ -4,7 +4,7 @@
 title: "The dynamics of hours worked and technology"
 authors: ["Cristiano Cantore", "Filippo Ferroni", "Miguel León-Ledesma"]
 date: 2017-05-31
-doi: "10.1016/j.jedc.2017.05.00"
+doi: #"10.1016/j.jedc.2017.05.00"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-05-31T22:11:49+01:00
