@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = "disc"
     category = ""
-    publication_type = "3"
+    publication_type = "4"
     exclude_featured = false
 
 [design]
