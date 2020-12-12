@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Structural Change and Macroeconomic Dynamics Workshop - University of Cagliari"
 publication_short: ""
 
 abstract: ""
