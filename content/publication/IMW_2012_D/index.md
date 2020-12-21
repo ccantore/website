@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Capital-Labor Substitution, Structural Change and Growth"
-authors: ["F. Alvarez-Cuadrado", "N. Van Long", "M. Poschke"]
+title: "Economic Integration and Structural Change"
+authors: ["J. Imbs", "C. Montenegro", "R. Wacziarg"]
 date: 2012-05-18
 doi:
 
@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Structural Change and Macroeconomic Dynamics Workshop - University of Cagliari - 18/05/2012"
+publication: "2nd workshop on Structural Change and Macroeconomic Dynamics - University of Surrey - 16/11/2012"
 publication_short: ""
 
 abstract: ""
@@ -34,10 +34,10 @@ links:
 #- name: Presentation
 #  url:
 #- name:
-#  url: 
+#  url:
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/Cuadrado%20et%20al%20discussion_Cantore.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/main/Imbs%20et%20al.%20discussion.pdf"
 url_dataset:
 url_poster:
 url_project:
