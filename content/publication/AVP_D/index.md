@@ -3,7 +3,7 @@
 
 title: "Capital-Labor Substitution, Structural Change and Growth"
 authors: ["F. Alvarez-Cuadrado", "N. Van Long", "M. Poschke"]
-date: 2012
+date: "2012-05-18"
 doi:
 
 # Schedule page publish date (NOT publication's date).

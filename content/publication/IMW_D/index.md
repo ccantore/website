@@ -3,7 +3,7 @@
 
 title: "Economic Integration and Structural Change"
 authors: ["J. Imbs", "C. Montenegro" "R. Wacziarg"]
-date:
+date: 2012-11-16"
 doi:
 
 # Schedule page publish date (NOT publication's date).
