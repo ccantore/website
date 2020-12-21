@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution"
-authors: ["Cristiano Cantore", "Lukas B. Freund"]
-date: 2020-11-01
+title: "Capital-Labor Substitution, Structural Change and Growth"
+authors: ["F. Alvarez-Cuadrado", "N. Van Long", "M. Poschke"]
+date: 2012-05-18
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Structural Change and Macroeconomic Dynamics Workshop - University of Cagliari - 18/05/2012"
 publication_short: ""
 
-abstract: "We propose a novel two-agent New Keynesian model to study the interaction of fiscal policy and household heterogeneity in a tractable environment. Workers can save in bonds subject to portfolio adjustment costs; firm ownership is concentrated among capitalists who do not supply labor. The model is consistent with micro data on empirical intertemporal marginal propensities to consume, and it avoids implausible profit income effects on labor supply. Relative to the traditional two-agent model, these features imply, respectively, a lower sensitivity of consumption to the composition of public financing; and smaller fiscal multipliers alongside pronounced redistributive effects."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,8 +33,8 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: Working Paper
-  url: "http://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe2095.pdf"
+- name:
+  url: ""
 
 
 url_pdf:
