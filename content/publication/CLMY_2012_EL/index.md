@@ -4,7 +4,7 @@
 title: "A fiscal stimulus with deep habits and optimal monetary policy"
 authors: ["Cristiano Cantore", "Paul Levine", "Giovanni Melina", "Bo Yang"]
 date: 2012-06-08
-doi: "10.1016/j.econlet.2012.05.051"
+#doi: "10.1016/j.econlet.2012.05.051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2012-06-08T22:11:49+01:00

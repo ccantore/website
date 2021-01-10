@@ -4,7 +4,7 @@
 title: "A Fiscal Stimulus and Jobless Recovery"
 authors: ["Cristiano Cantore", "Paul Levine", "Giovanni Melina"]
 date: 2014-04-07
-doi: "10.1111/sjoe.12066"
+#doi: "10.1111/sjoe.12066"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2014-04-07T22:11:49+01:00
