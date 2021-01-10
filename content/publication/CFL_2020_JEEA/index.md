@@ -24,7 +24,7 @@ abstract: "The textbook New Keynesian (NK) model implies that the labor share is
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

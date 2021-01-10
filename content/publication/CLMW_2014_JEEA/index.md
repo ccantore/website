@@ -24,7 +24,7 @@ abstract: "The response of hours to technology shocks is a key controversy in ma
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

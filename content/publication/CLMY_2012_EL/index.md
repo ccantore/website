@@ -24,7 +24,7 @@ abstract: "A New-Keynesian model with deep habits and optimal monetary policy de
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: "We contribute to an emerging literature that brings the constant elas
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

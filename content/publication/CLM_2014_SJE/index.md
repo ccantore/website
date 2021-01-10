@@ -24,7 +24,7 @@ abstract: "We analyze the effects of a government-spending expansion in a dynami
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

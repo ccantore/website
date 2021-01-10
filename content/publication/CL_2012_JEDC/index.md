@@ -24,7 +24,7 @@ abstract: "We contribute to a recent literature on the normalization, calibratio
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 

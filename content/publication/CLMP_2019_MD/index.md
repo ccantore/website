@@ -24,7 +24,7 @@ abstract: "The initial government debt-to-gross domestic product (GDP) ratio and
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["publications"]
 categories: []
 featured: false
 
