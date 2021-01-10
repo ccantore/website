@@ -4,7 +4,7 @@
 title: "The Missing Link: Monetary Policy and The Labor Share"
 authors: ["Cristiano Cantore", "Filippo Ferroni", "Miguel León-Ledesma"]
 date: 2020-08-07
-doi: "10.1093/jeea/jvaa034"
+#doi: "10.1093/jeea/jvaa034"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-07T22:11:49+01:00
