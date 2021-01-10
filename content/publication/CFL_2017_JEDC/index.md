@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CES technology and business cycle fluctuations"
-authors: ["Cristiano Cantore", "Paul Levine", "Joseph Pearlman", "Bo Yang"]
+title: "The Dynamics of hours worked and technology"
+authors: ["Cristiano Cantore", "Filippo Ferroni", "Miguel León-Ledesma"]
 date: 2015-10-30
 #doi: "10.1016/j.jedc.2015.09.00"
 
