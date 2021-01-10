@@ -3,7 +3,7 @@
 
 title: "A tail of labor supply and a tale of monetary policy"
 authors: ["Cristiano Cantore", "Filippo Ferroni","Haroon Muntaz", "Angeliki Theophilopoulou"]
-date: 2021-01-00
+date: 2021-01-10
 doi:
 
 # Schedule page publish date (NOT publication's date).
