@@ -14,9 +14,11 @@ header:
   caption: ""
   image: ""
 ---
-#### Autumn 2020
+#### 2020 - 2021
 
-* Macroeconomics (MRes University of Surrey)
+* Macroeconomics (MRes - University of Surrey)
+
+* Topic in Macroeconomics (3rd year Undergraduate - University of Surrey)
 
 #### Past Teaching
 
