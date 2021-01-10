@@ -37,7 +37,7 @@ links:
 #  url: 
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/Cuadrado%20et%20al%20discussion_Cantore.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/main/Assenza%20Delli%20Gatti%20discussion.pdf"
 url_dataset:
 url_poster:
 url_project:
