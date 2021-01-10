@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Breaking the Feedback Loop: Macroprudential Regulation of Banks' Sovereign Exposures"
-authors: ["J. Abad"]
-date: 2018-12-21
+title: "Open economy, redistribution, and the aggregate impact of
+external shocks"
+authors: ["H. Zhou"]
+date: 2020-12-3
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +17,8 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "17th Workshop on Macroeconomic Dynamics: Theory and Applications - LUISS University Rome - 21/12/2018"
+publication: "6th BdF-BoE International Macroeconomics Workshop -
+Bank of England - 3/12/2020"
 publication_short: ""
 
 abstract: ""
@@ -37,7 +39,7 @@ links:
 #  url: 
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/discussion_Abad_Cantore_handout.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/main/discussion_Zhou_Cantore.pdf"
 url_dataset:
 url_poster:
 url_project:
