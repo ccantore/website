@@ -3,8 +3,8 @@
 
 title: "The Dynamics of hours worked and technology"
 authors: ["Cristiano Cantore", "Filippo Ferroni", "Miguel León-Ledesma"]
-date: 2015-10-30
-#doi: "10.1016/j.jedc.2015.09.00"
+date: 2017-05-31
+#doi: "http://dx.doi.org/10.1016/j.jedc.2017.05.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-10-30T22:11:49+01:00
@@ -16,10 +16,10 @@ publishDate: 2015-10-30T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Economic Dynamics and Control***, vol. 61(C), pages 133-151"
+publication: "***Journal of Economic Dynamics and Control***, vol. 82, pages 67-82"
 publication_short: ""
 
-abstract: "We contribute to an emerging literature that brings the constant elasticity of substitution (CES) specification of the production function into the analysis of business cycle fluctuations. Using US data, we estimate by Bayesian-Maximum-Likelihood methods a standard medium-sized DSGE model with a CES rather than Cobb–Douglas (CD) technology. We estimate a elasticity of substitution between capital and labour well below unity at 0.15–0.18. In a marginal likelihood race CES decisively beats the CD production and this is matched by its ability to fit the data better in terms of second moments. We show that this result is mainly driven by the implied fluctuations of factor shares under the CES specification. The CES model performance is further improved when the estimation is carried out under an imperfect information assumption. Hence the main message for DSGE models is that we should dismiss once and for all the use of CD for business cycle analysis."
+abstract: "The response of hours worked to technology shocks in the postwar US economy has increased over time. We offer a structural interpretation of this important time-varying macroeconomic moment. The time varying patterns captured by a structural VAR are consistent with those obtained from a parsimonious RBC model with a less than unitary elasticity of substitution between capital and labor (σ). The observed changes in the response of hours are attributable to increases in the magnitude of the degree of capital-labor substitution. Finally, we conjecture that the observed time-variation in σ is related to changes in the skill composition of the work force and biases in technological change."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,13 +34,13 @@ links:
 #- name: Presentation
 #  url:
 - name: Published Version
-  url: "http://www.sciencedirect.com/science/article/pii/S0165188915001736"
+  url: "https://www.sciencedirect.com/science/article/pii/S016518891730115X"
 
 - name: Ungated
-  url: "https://www.dropbox.com/s/s003fv0ktkqc0e9/CES_JEDC_resubmission_v6_Final.pdf?dl=0"
+  url: "https://www.dropbox.com/s/c65g6rybtd944m3/CCFFMLL_R%26R_JEDC.pdf?dl=0%20title="
 
 - name: Online Appendix
-  url: "https://www.dropbox.com/s/rpgzdxdal1y9em5/CES_JEDC_resubmission_v6_Online_Appendix.pdf?dl=0"
+  url: "https://www.dropbox.com/s/09aw7qiy32k93zr/CCFFMLL_appendix_all_May_10_final.pdf?dl=0"
 
 url_pdf:
 url_dataset:
