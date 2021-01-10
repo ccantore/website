@@ -4,7 +4,7 @@
 title: "CES technology and business cycle fluctuations"
 authors: ["Cristiano Cantore", "Paul Levine", "Joseph Pearlman", "Bo Yang"]
 date: 2015-10-30
-doi: "10.1016/j.jedc.2015.09.00"
+#doi: "10.1016/j.jedc.2015.09.00"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-10-30T22:11:49+01:00

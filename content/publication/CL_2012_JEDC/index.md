@@ -4,7 +4,7 @@
 title: "Getting normalization right: Dealing with ‘dimensional constants’ in macroeconomics"
 authors: ["Cristiano Cantore", "Paul Levine"]
 date: 2012-06-07
-doi: "10.1016/j.jedc.2012.05.009"
+#doi: "10.1016/j.jedc.2012.05.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2012-06-07T22:11:49+01:00
