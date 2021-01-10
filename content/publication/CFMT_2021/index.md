@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["wp"]
+tags: ["working papers"]
 categories: []
 featured: false
 
