@@ -4,7 +4,7 @@
 title: "Shocking Stuff: Technology, Hours, And Factor Substitution"
 authors: ["Cristiano Cantore", "Miguel León-Ledesma", "Peter McAdam", "Alpo Willman"]
 date: 2014-02-01
-doi: "10.1111/jeea.12038"
+#doi: "10.1111/jeea.12038"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2014-02-01T22:11:49+01:00
