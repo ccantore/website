@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Capital-Labor Substitution, Structural Change and Growth"
-authors: ["F. Alvarez-Cuadrado", "N. Van Long", "M. Poschke"]
-date: 2012-05-18
+title: "E Pluribus Unum: Macroeconomic Modelling for Multi-agent Economies"
+authors: ["T. Assenza", "D. Delli Gatti"]
+date: 2013-09-20
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Structural Change and Macroeconomic Dynamics Workshop - University of Cagliari - 18/05/2012"
+publication: "Macro Banking and Finance Workshop - Universita’ degli Studi Milano Bicocca - 20/09/2013"
 publication_short: ""
 
 abstract: ""

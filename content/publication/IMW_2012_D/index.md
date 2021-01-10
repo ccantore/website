@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["disc"]
+tags: ["discussions"]
 categories: []
 featured: false
 
