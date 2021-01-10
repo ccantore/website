@@ -4,7 +4,7 @@
 title: "Open economy, redistribution, and the aggregate impact of
 external shocks"
 authors: ["H. Zhou"]
-date: 2020-12-3
+date: 2020-12-03
 doi:
 
 # Schedule page publish date (NOT publication's date).
