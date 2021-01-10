@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State Dependence in Labor Market Fluctuations: Evidence, Theory and Policy Implications"
-authors: ["C. Pizzinelli", "F. Zanetti"]
-date: 2017-12-21
+title: "Breaking the Feedback Loop: Macroprudential Regulation of Banks' Sovereign Exposures"
+authors: ["J. Abad"]
+date: 2018-12-21
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "16th Workshop on Macroeconomic Dynamics: Theory and Applications Universita' Cattolica Milano - 21/12/2017"
+publication: "17th Workshop on Macroeconomic Dynamics: Theory and Applications LUISS University Rome - 21/12/2018"
 publication_short: ""
 
 abstract: ""
@@ -37,7 +37,7 @@ links:
 #  url: 
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/discussion_Pizzinelli_Zanetti_Cantore.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/main/discussion_Abad_Cantore_handout.pdf"
 url_dataset:
 url_poster:
 url_project:
