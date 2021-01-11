@@ -33,19 +33,21 @@ I was born in <a href="http://en.wikipedia.org/wiki/Potenza">Potenza</a>, <a hre
                Over the years I've also been at <a href="http://www.oecd.org">OECD</a> and <a href="http://www.ecb.int/">ECB</a> as an intern, at the <a href="http://www.bde.es/investigador/home.htm">Banco de España</a>
                as a research fellow and at the <a href="http://economics.ucsd.edu">University of California San Diego</a> as a visiting professor. 
 
-<!-- Default Statcounter code for website test
-https://cristiano-cantore.netlify.app -->
+<!-- Default Statcounter code for Cristianocantore.com
+http://cristianocantore.com -->
 <script type="text/javascript">
-var sc_project=12412149; 
-var sc_invisible=1; 
-var sc_security="57b7f682"; 
+var sc_project=8360218; 
+var sc_invisible=0; 
+var sc_security="35357c7d"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
 </script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12412149/0/57b7f682/1/"
-alt="Web Analytics"></a></div></noscript>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/8360218/0/35357c7d/0/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
 <!-- End of Statcounter Code -->
