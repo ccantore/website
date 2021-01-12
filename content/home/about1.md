@@ -15,7 +15,7 @@ design:
   columns: "2"
   background:
     image: headers/header-background.jpg
-    image_darken: 0.3
+    image_darken: 0
     image_parallax: true
     image_position: center
     image_size: cover
