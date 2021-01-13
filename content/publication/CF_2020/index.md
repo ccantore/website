@@ -24,7 +24,7 @@ abstract: "We propose a novel two-agent New Keynesian model to study the interac
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working papers"]
+tags: ["publications"]
 categories: []
 featured: false
 
