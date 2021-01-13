@@ -3,7 +3,7 @@
 
 title: "Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution"
 authors: ["Cristiano Cantore", "Lukas B. Freund"]
-date: 2020-11-01
+date: 2021-01-06
 doi:
 
 # Schedule page publish date (NOT publication's date).
