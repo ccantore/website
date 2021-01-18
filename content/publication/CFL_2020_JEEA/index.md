@@ -34,7 +34,7 @@ links:
 #- name: Presentation
 #  url:
 - name: Published Version
-  url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvaa034/5884931"
+  url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvaa034/5884931?guestAccessKey=a5c5cb4d-cba5-4ccb-a796-37c9b64f3cac"
 
 - name: BoE SWP
   url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2020/the-missing-link-monetary-policy-and-the-labor-share.pdf?la=en&hash=A322DA7BFBCEE59B4093807B8D3A88682DB45713"
