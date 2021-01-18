@@ -36,11 +36,11 @@ links:
 - name: Published Version
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/sjoe.12066"
 
-- name: Ungated
-  url: "http://onlinelibrary.wiley.com/doi/10.1111/sjoe.12066/abstract"
+- name: IMF WP
+  url: "https://www.imf.org/en/Publications/WP/Issues/2016/12/31/A-Fiscal-Stimulus-and-Jobless-Recovery-40259"
 
 - name: Online Appendix
-  url: "https://www.dropbox.com/s/b4ctarbu4azut7a/CML_SJE_appendix.pdf?dl=0"
+  url: "https://github.com/ccantore/Papers/blob/main/CML_SJE_appendix.pdf"
 
 url_pdf:
 url_dataset:

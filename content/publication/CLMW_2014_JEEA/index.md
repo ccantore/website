@@ -37,10 +37,10 @@ links:
   url: "http://hdl.handle.net/10.1111/jeea.12038"
 
 - name: Ungated
-  url: "https://www.dropbox.com/s/ny0n27k8ledx8w4/DP09-13.pdf?dl=0"
+  url: "https://github.com/ccantore/Papers/blob/main/DP09-13.pdf"
 
 - name: Online Appendix
-  url: "https://www.dropbox.com/s/owkocunufsptt74/online_appendix_all.pdf?dl=0"
+  url: "https://github.com/ccantore/Papers/blob/main/online_appendix_all.pdf"
 
 url_pdf:
 url_dataset:

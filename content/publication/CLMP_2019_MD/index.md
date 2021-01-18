@@ -37,7 +37,7 @@ links:
   url: "https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/optimal-fiscal-and-monetary-policy-debt-crisis-and-management/4E05CEF51FA691092B6EE52ACC807F5E"
 
 - name: Ungated
-  url: "https://www.dropbox.com/s/radpu89veqbamwg/CLMP_MD_RR_Final.pdf?dl=0"
+  url: "https://github.com/ccantore/Papers/blob/main/CLMP_MD_RR_Final.pdf"
 
 #- name: Online Appendix
 #  url: "https://www.dropbox.com/s/rpgzdxdal1y9em5/CES_JEDC_resubmission_v6_Online_Appendix.pdf?dl=0"

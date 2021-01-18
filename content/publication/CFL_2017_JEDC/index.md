@@ -37,10 +37,10 @@ links:
   url: "https://www.sciencedirect.com/science/article/pii/S016518891730115X"
 
 - name: Ungated
-  url: "https://www.dropbox.com/s/c65g6rybtd944m3/CCFFMLL_R%26R_JEDC.pdf?dl=0%20title="
+  url: "https://github.com/ccantore/Papers/blob/main/CCFFMLL_R%26R_JEDC.pdf"
 
 - name: Online Appendix
-  url: "https://www.dropbox.com/s/09aw7qiy32k93zr/CCFFMLL_appendix_all_May_10_final.pdf?dl=0"
+  url: "https://github.com/ccantore/Papers/blob/main/CCFFMLL_appendix_all_May_10_final.pdf"
 
 url_pdf:
 url_dataset:
