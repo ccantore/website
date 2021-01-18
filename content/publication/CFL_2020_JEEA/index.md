@@ -58,7 +58,7 @@ links:
   url: "https://www.bloomberg.com/opinion/articles/2019-04-23/modern-monetary-theory-austrian-economics-deserve-skepticism"
 
 - name: Slides
-  url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jeea/PAP/10.1093_jeea_jvaa034/2/jvaa034_ccffll_teaching_slides_pres_missing_link.pdf?Expires=1606069377&Signature=fyD9DUQNbV7Jr6zWSmOQdLXpvIBIq86pLZQrlwxQ8z~siZQzSj~vyQywlNLmbzYtg9LJDmGiK3l3nLKXg9r65x-0lr0qV9I5Pbj1ecE0lLMzIPeaylGkbiyblaHCE-IH5VEswSoFDVb7h1w6I80MujrtZ4PVnhGXF7Ap-7qKwSGZSr6b6HxcANL3sxCMdIJzwpeFDq8mskV7fF-WOL3-k0rOk~J8dZD3P9ShvIwN0spDPcSlhXZd-e~Bq6E2SEL-KocY8UfsbP7KjBcr3pl8eLCy6DHUrymMwzL8WoEI1wewiGOC4jXrmnokbMCPzvVJeVbH2~xvb-ZND670QYd3QA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jeea/PAP/10.1093_jeea_jvaa034/2/jvaa034_ccffll_teaching_slides_pres_missing_link.pdf?Expires=1614029334&Signature=W-FNOxm4v6LMDw4UcDE8zIf8qYn4km6uKbAzZ-HfcI1dA1JtXSKY7B5dZMGXYf9AyN3hxuC7CRKdtANehS3O3iHW9-pW~kyaukmHLu7Zg3~4q6e2MdjuES2tsUFa3RliWG~Z7X2Uxzsszc8f7N1YbEdNjoSuxnJl03SqR~d8OdL0lDXfhqhp8RB6MzryxMGvWVTS~ZRyqFnm3MdcRcNIyDmikqiz2lpQ087GWeNgDsQAP8PVjzdaONph20sD5VwHwfzouv4HzEJZn08CuYeJNyMSdbjXrLKoiZfTsrT3EJOdlooyXpBlARFpXarm0ejOo7Av00fYKwXKaDrqwvD8og__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 
 
 url_pdf:
