@@ -18,7 +18,7 @@ header:
 
 * Radio interview on Brexit for 'Corresponseales en Linea' on Radio Ciudad Buenos Aires, Argentina. <a href="https://www.youtube.com/embed/NYGaAnNQyoc?autoplay=1&auto_play=true">Youtube link</a>
 
-* Bloomberg views: <a href="https://www.bloomberg.com/opinion/articles/2019-04-23/modern-monetary-theory-austrian-economics-deserve-skepticism">*Beware of economic theories claiming to explain everything*, by Noah Smith. </a>
+* Bloomberg views: <a href="https://www.bloomberg.com/opinion/articles/2019-04-23/modern-monetary-theory-austrian-economics-deserve-skepticism">*Beware of economic theories claiming to explain everything*</a>, by Noah Smith. 
 
 
 
