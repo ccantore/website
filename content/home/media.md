@@ -26,6 +26,6 @@ header:
 
 * <a href="https://replicationnetwork.com">The Replication Network</a>: *Furthering the practice of replication in Economics* 
 
-* <a href="https://www.surrey.ac.uk/centre-international-macroeconomic-studies-cims">Centre for International Macroeconomic Studies </a>, University of Surrey: Organizing Easter and Summer schools in Macroeconomics every year.
+* <a href="https://www.surrey.ac.uk/centre-international-macroeconomic-studies-cims">Centre for International Macroeconomic Studies</a>, University of Surrey: Organizing Easter and Summer schools in Macroeconomics every year.
 
 
