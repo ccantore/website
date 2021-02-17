@@ -93,8 +93,9 @@ user_groups:
 I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
+- <span style="color:red">[25th February 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [11th ifo Conference on Macroeconomics and Survey Data](https://www.ifo.de/en/node/59037).
 - <span style="color:red">[January 2021]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.inet.econ.cam.ac.uk/working-paper-pdfs/wp2044.pdf) **forthcoming at the Journal of Monetary Economics**.
-- <span style="color:red">[December 2020]</span> [Discussion](https://github.com/ccantore/Discussions/blob/main/discussion_Zhou_Cantore.pdf) of *Open economy, redistribution, and the aggregate impact of external shocks* by H. Zhou at the 6th BdF-BoE International Macroeconomics Workshop.
+
 
 
 
