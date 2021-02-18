@@ -1,11 +1,11 @@
-PWD /Users/cc0013/Documents/GitHub/website/static/files
+PWD /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/cc0013/Documents/GitHub/website/static/files/cv_cantore.tex
-OUTPUT /Users/cc0013/Documents/GitHub/website/static/files/cv_cantore.log
-INPUT /Users/cc0013/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cc0013/Documents/GitHub/website/static/files/res.cls
+INPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex
+OUTPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.log
+INPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
+INPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
@@ -77,8 +77,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/cc0013/Documents/GitHub/website/static/files/cv_cantore.aux
-INPUT /Users/cc0013/Documents/GitHub/website/static/files/cv_cantore.aux
+INPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux
+INPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -87,7 +87,7 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-OUTPUT /Users/cc0013/Documents/GitHub/website/static/files/cv_cantore.pdf
+OUTPUT /Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
