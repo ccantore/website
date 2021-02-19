@@ -94,7 +94,7 @@ I am a Senior Research Economist at the Research Hub of the [Bank of England](ht
 
 **What's new?**
 - <span style="color:red">[25th February 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [11th ifo Conference on Macroeconomics and Survey Data](https://www.ifo.de/en/node/59037).
-- <span style="color:red">[January 2021]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.inet.econ.cam.ac.uk/working-paper-pdfs/wp2044.pdf) **forthcoming at the Journal of Monetary Economics**.
+- <span style="color:red">[January 2021]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.sciencedirect.com/science/article/pii/S0304393221000040?via%3Dihub **forthcoming at the Journal of Monetary Economics**.
 
 
 
