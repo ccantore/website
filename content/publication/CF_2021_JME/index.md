@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Monetary Economics***, *Forthcoming*"
+publication: "***Journal of Monetary Economics***, vol 119 Pages 58-74"
 publication_short: ""
 
 abstract: "We propose a novel two-agent New Keynesian model to study the interaction of fiscal policy and household heterogeneity in a tractable environment. Workers can save in bonds subject to portfolio adjustment costs; firm ownership is concentrated among capitalists who do not supply labor. The model is consistent with micro data on empirical intertemporal marginal propensities to consume, and it avoids implausible profit income effects on labor supply. Relative to the traditional two-agent model, these features imply, respectively, a lower sensitivity of consumption to the composition of public financing; and smaller fiscal multipliers alongside pronounced redistributive effects."
