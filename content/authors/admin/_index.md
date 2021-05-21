@@ -93,8 +93,9 @@ user_groups:
 I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
+- <span style="color:red">[May 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at  [T3M](https://www.t2m.network/t3m/2021/05/03/t3m-bdf.html).
 - <span style="color:red">[April 2021]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.sciencedirect.com/science/article/pii/S0304393221000040?via%3Dihub) **published at the Journal of Monetary Economics, volume 119**.
-- <span style="color:red">[February 2021]</span> Presented *A tail of labor supply and a tale of monetary policy* at the [11th ifo Conference on Macroeconomics and Survey Data](https://www.ifo.de/en/node/59037).
+
 
 
 
