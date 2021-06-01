@@ -93,8 +93,9 @@ user_groups:
 I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
-- <span style="color:red">[May 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at  [T3M](https://www.t2m.network/t3m/2021/05/03/t3m-bdf.html).
-- <span style="color:red">[April 2021]</span> [Workers, Capitalists, and the Government: Fiscal Policy and Income (Re)Distribution](https://www.sciencedirect.com/science/article/pii/S0304393221000040?via%3Dihub) **published at the Journal of Monetary Economics, volume 119**.
+- <span style="color:red">[10th-11th June 2021]</span> [Workshop on Macroeconomic Consequences of Technological Change](https://www.bankofengland.co.uk/events/2021/may/mmf-workshop-on-macroeconomic-consequences-of-technological-change#:~:text=The%20MMF%20workshop%20on%20Macroeconomic,and%20the%20Bank%20of%20England.&text=To%20view%20the%20programme%20and,Opens%20in%20a%20new%20window.) organized jointly with MMF and the University of Kent. Register [here](https://www.eventbrite.co.uk/e/mmf-workshop-macroeconomic-consequences-of-technological-change-10-11-june-tickets-154229788449)
+- <span style="color:red">[4th June 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [3rd Warsaw Money-Macro-Finance Conference](http://rcea.org/wp-content/uploads/2021/05/3rd-Money-Macro-Finance-Conference-Program.pdf).
+
 
 
 
