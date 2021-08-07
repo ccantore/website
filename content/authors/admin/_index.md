@@ -93,8 +93,9 @@ user_groups:
 I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
-- <span style="color:red">[17th June 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [8th Bank of Italy-CEPR Conference on Money, Banking and Finance: “Closing the Gaps: The Future of Stabilisation Policies after the COVID-19 Pandemic”](https://www.bancaditalia.it/media/agenda/convegni-2021/CEPR_BdI_prelim_programme_2021_05_31.pdf?language_id=1).
-- <span style="color:red">[10th-11th June 2021]</span> [Workshop on Macroeconomic Consequences of Technological Change](https://www.bankofengland.co.uk/events/2021/may/mmf-workshop-on-macroeconomic-consequences-of-technological-change#:~:text=The%20MMF%20workshop%20on%20Macroeconomic,and%20the%20Bank%20of%20England.&text=To%20view%20the%20programme%20and,Opens%20in%20a%20new%20window.) organized jointly with MMF and the University of Kent. Register [here](https://www.eventbrite.co.uk/e/mmf-workshop-macroeconomic-consequences-of-technological-change-10-11-june-tickets-154229788449)
+- <span style="color:red">[23rd August 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [EEA-ESEM 2021](https://eea-esem-2021.org).
+- <span style="color:red">[1st September 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [52nd MMF annual conference](https://www.inet.econ.cam.ac.uk/event-item?item=52-mmf-annual-conference-2021).
+- <span style="color:red">[26th Novemeber 2021]</span> [Workshop on on productivity and structural change](https://www.mmf.ac.uk/productivity-workshop/) organized jointly by the Bank of England, the MMF, NIESR, and the Productivity Institute. 
 
 
 
