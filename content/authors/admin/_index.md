@@ -6,7 +6,7 @@ title: Cristiano Cantore
 superuser: true
 
 # Role/position/tagline
-role: Research Advisor/ Reader
+role: Research Advisor / Reader
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: https://www.surrey.ac.uk/people/cristiano-cantore
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Business Cycles, Monetary and Fiscal Policy, Labour Market and Inequality.
 
 # Interests to show in About widget
 interests:
