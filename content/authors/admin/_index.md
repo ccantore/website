@@ -6,7 +6,7 @@ title: Cristiano Cantore
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Economist/ Reader
+role: Research Advisor/ Reader
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -90,7 +90,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Research Economist at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
+I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
 - <span style="color:red">[23rd August 2021]</span> Presenting *A tail of labor supply and a tale of monetary policy* at the [EEA-ESEM 2021](https://eea-esem-2021.org).
