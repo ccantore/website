@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.4)  17 SEP 2021 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.4)  12 OCT 2021 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -234,89 +234,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
  []
 
 
-Overfull \hbox (18.89078pt too wide) in paragraph at lines 112--135
+Overfull \hbox (18.89078pt too wide) in paragraph at lines 113--136
 []\T1/cmr/m/n/10.95 (2021) [][]\T1/cmr/m/it/10.95 Work-ers, Cap-i-tal-ists, and the Gov-ern-ment: Fis-cal Pol-icy and In-come (Re)Distribution[][]\T1/cmr/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--135
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
 
  []
 
 [2
 
 ] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 311.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 311.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 311.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 311.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 311.
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 319.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
  ) 
 Here is how much of TeX's memory you used:
- 5431 strings out of 480608
- 83557 string characters out of 5903631
- 350919 words of memory out of 5000000
+ 5432 strings out of 480608
+ 83563 string characters out of 5903631
+ 346919 words of memory out of 5000000
  21241 multiletter control sequences out of 15000+600000
  542523 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,45p,1014b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,45p,1014b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" (5 pages, 201358 bytes).
+Output written on "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" (6 pages, 202097 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
