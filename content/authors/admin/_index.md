@@ -93,9 +93,6 @@ user_groups:
 I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
 
 **What's new?**
-- <span style="color:red">[2nd November 2021]</span> Presenting *A Tail of Labor Supply and a Tale of Monetary Policy* at the Workshop in Macroeconometrics (Kings College London).
-- <span style="color:red">[3nd November 2021]</span> Presenting *A Tail of Labor Supply and a Tale of Monetary Policy* at Universidad de Antioquia in Medellín (Colombia).
-- <span style="color:red">[8nd November 2021]</span> Discussing *Five facts about the Distributional Income Effects of Monetary Policy* by Amberg et al. at the ESCB Research Cluster on Monetary Economics Fifth Annual Workshop.
 - <span style="color:red">[26th Novemeber 2021]</span> [Workshop on on productivity and structural change](https://www.mmf.ac.uk/productivity-workshop/) organized jointly by the Bank of England, the MMF, NIESR, and the Productivity Institute. 
 - <span style="color:red">[24th-25th February 2022]</span> [First Annual BEAR Conference: The Monetary Toolkit](https://www.bankofengland.co.uk/events/2022/february/first-annual-bear-conference).
 
