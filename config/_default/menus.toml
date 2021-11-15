@@ -32,7 +32,7 @@
 [[main]]
   name = "Discussions"
   url = "#discussions"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Teaching"
