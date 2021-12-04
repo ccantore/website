@@ -16,7 +16,7 @@ publishDate: 2020-08-07T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of the European Economic Association***, *Forthcoming*"
+publication: "***Journal of the European Economic Association***, vol 19, Issue 3, 1592-1620."
 publication_short: ""
 
 abstract: "The textbook New Keynesian (NK) model implies that the labor share is procyclical conditional on a monetary policy shock. We present evidence that a monetary policy tightening robustly increased the labor share and decreased real wages during the Great Moderation period in the United States, the Euro Area, the United Kingdom, Australia, and Canada. We show that this is inconsistent not only with the basic NK model, but also with medium-scale NK models commonly used for monetary policy analysis and where it is possible to break the direct link between the labor share and the inverse markup. Our results imply that either NK models are unable to separate the dynamics of the labor share from the markup or markups do not respond in the way NK models predict."
