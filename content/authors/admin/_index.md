@@ -94,6 +94,7 @@ I am a Research Advisor at the Research Hub of the [Bank of England](https://www
 
 **What's new?**
 - <span style="color:red">[8th December 2021]</span> [Workshop on Empirical Monetary Economics](https://drive.google.com/file/d/17_Q0zTMttAXchfL00YHGC-0VolwW--00/view) OFCE, SciencePo and CEPR. 
+- <span style="color:red">[15th December 2021]</span> [European Winter Meeting of the Econometric Society](https://www.ub.edu/school-economics/ewmes).
 - <span style="color:red">[24th-25th February 2022]</span> [First Annual BEAR Conference: The Monetary Toolkit](https://www.bankofengland.co.uk/events/2022/february/first-annual-bear-conference).
 
 
