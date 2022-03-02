@@ -90,7 +90,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a member of the [Centre for Macroeconomics](http://www.centreformacroeconomics.ac.uk/Home.aspx), the [Euro Area Business Cycle Network](https://eabcn.org) and the [Central Bank Research Association](https://eabcn.org).
+I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore), a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore) and a Guest Lecturer at the [London School of Economics](https://www.lse.ac.uk/resources/calendar/courseGuides/EC/2021_EC424.htm). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
 - <span style="color:red">[8th April 2022]</span> [QuickTalks](https://www.macroeconometrics.net/quicktalks).
