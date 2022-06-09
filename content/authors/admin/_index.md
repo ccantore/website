@@ -93,7 +93,7 @@ user_groups:
 I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore), a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore) and a Guest Lecturer at the [London School of Economics](https://www.lse.ac.uk/resources/calendar/courseGuides/EC/2021_EC424.htm). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[21th-23rd April 2022]</span> [9th Annual MMF PhD Conference](https://www.mmf.ac.uk/phd/2022-phd-conference/).
+- <span style="color:red">[9th-10th June 2022]</span> [Barcelona Summer Forum: Monetary Policy and Central Banking](https://bse.eu/summer-forum/workshop-monetary-policy-central-banking).
 
 
 
