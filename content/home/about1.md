@@ -31,7 +31,7 @@ I was born in <a href="http://en.wikipedia.org/wiki/Potenza">Potenza</a>, <a hre
                In September 2009 I started as a Lecturer (Assistant Professor) at the <a href="http://www.surrey.ac.uk/school-economics">University of Surrey</a> where I have also contributed to the creation and development of the <a href="http://www.surrey.ac.uk/economics/research/groups/centreinternationalmacro/index.htm">Centre for International Macroeconomic Studies</a>. In April 2013 I was promoted to Senior Lecturer and in August 2018 to Reader.
                In September 2018 I joined the Research Hub of the Bank of England as a Senior Research Economist. In July 2021 I have been promoted to Research Advisor.
                Over the years I've also been at <a href="http://www.oecd.org">OECD</a> and <a href="http://www.ecb.int/">ECB</a> as an intern, at the <a href="http://www.bde.es/investigador/home.htm">Banco de España</a>
-               as a research fellow and at the <a href="http://economics.ucsd.edu">University of California San Diego</a> as a visiting professor. 
+               as a research fellow, at the <a href="http://economics.ucsd.edu">University of California San Diego</a> as a visiting professor and at the <a href="https://www.lse.ac.uk/economics">London School of Economics</a> as a Guest teacher of Monetarty Economics in their MSc.
 
 <!-- Default Statcounter code for Cristianocantore.com
 http://cristianocantore.com -->
