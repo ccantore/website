@@ -38,6 +38,9 @@ links:
 - name: BoE SWP
   url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2022/a-tail-of-labour-supply-and-a-tale-of-monetary-policy.pdf?la=en&hash=A019F6AC57F0CA58A93742C2628C1C87E1763257"
 
+- name: Chicago FED WP
+  url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjnsK-X8KD5AhWPhv0HHdkVDGQQFnoECAQQAQ&url=https%3A%2F%2Fwww.chicagofed.org%2F-%2Fmedia%2Fpublications%2Fworking-papers%2F2022%2Fwp2022-30-pdf.pdf%3Fsc_lang%3Den&usg=AOvVaw2G-kZZFtXwGK1AAuIPqEtd"
+
 url_pdf:
 url_dataset:
 url_poster:
