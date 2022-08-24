@@ -58,18 +58,18 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://www.webofscience.com/wos/author/record/209777
-# - icon: mendeley
-#   icon_pack: ai
-#   link: https://www.mendeley.com/profiles/cristiano-cantore/
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Cristiano-Cantore
 - icon: edit
   icon_pack: fas
   link: http://citec.repec.org/p/c/pca433.html
 - icon: github
   icon_pack: fab
   link: https://github.com/ccantore
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/cristiano-cantore-28061b26/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cristiano-cantore-28061b26/
 
 
 # Link to a PDF of your resume/CV.
