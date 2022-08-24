@@ -55,7 +55,7 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pca433.html
-- icon: publons
+- icon: researchgate
   icon_pack: ai
   link: https://www.webofscience.com/wos/author/record/209777
 #  - icon: researchgate
