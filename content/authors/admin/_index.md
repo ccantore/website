@@ -57,7 +57,7 @@ social:
   link: https://ideas.repec.org/f/pca433.html
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/1223988/cristiano-cantore-phd
+  link: https://www.webofscience.com/wos/author/record/209777
 # - icon: mendeley
 #   icon_pack: ai
 #   link: https://www.mendeley.com/profiles/cristiano-cantore/
@@ -70,6 +70,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cristiano-cantore-28061b26/
+- icon: orcid
+icon_pack: ai
+link: https://orcid.org/0000-0002-4837-2140
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
