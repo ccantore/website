@@ -57,7 +57,7 @@ social:
   link: https://ideas.repec.org/f/pca433.html
 - icon: orcid
   icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/209777
+  link: https://orcid.org/0000-0002-4837-2140
 - icon: publons
   icon_pack: ai
   link: https://www.webofscience.com/wos/author/record/209777
