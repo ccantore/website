@@ -61,9 +61,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Cristiano-Cantore
-#  - icon: researchgate
-#    icon_pack: ai
-#    link: https://www.researchgate.net/profile/Cristiano-Cantore
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Cristiano-Cantore
 - icon: edit
   icon_pack: fas
   link: http://citec.repec.org/p/c/pca433.html
