@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cristiano.cantore@gmail.com
+  link: "mailto:cristiano.cantore@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/c_cantore
