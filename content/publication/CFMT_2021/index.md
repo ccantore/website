@@ -35,6 +35,9 @@ links:
 #  url:
 #- name: Coming soon
 #  url: ""
+- name: Chicago Fed Letter
+  url: "https://www.chicagofed.org/publications/chicago-fed-letter/2022/472"
+
 - name: BoE SWP
   url: "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2022/a-tail-of-labour-supply-and-a-tale-of-monetary-policy.pdf?la=en&hash=A019F6AC57F0CA58A93742C2628C1C87E1763257"
 
