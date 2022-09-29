@@ -101,7 +101,7 @@ user_groups:
 I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[6th September 2022]</span> [BoE Special Session ‘QUANTITATIVE TIGHTENING AND MONETARY POLICY NORMALIZATION’ at the 2022 MMF Conference](https://www.mmf.ac.uk/conference/2022-conference/).
+- <span style="color:red">[30th September 2022]</span> [‘QUANTITATIVE EASING and QUANTITATIVE TIGHTENING’ at NIESR](https://www.niesr.ac.uk/events/quantitative-easing-quantitative-tightening).
 
 
 
