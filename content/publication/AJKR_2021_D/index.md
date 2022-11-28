@@ -37,7 +37,7 @@ links:
 #  url: 
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/Discussion%20Amberg%20et%20al.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/710dde58d22746e935637375f05cfd768f667005/Discussion%20Hubert%20Savignac.pdf"
 url_dataset:
 url_poster:
 url_project:
