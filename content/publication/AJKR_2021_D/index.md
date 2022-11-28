@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Five Facts about the Distributional Income Effects of Monetary Policy Shocks"
-authors: ["N. Amberg, T. Jansson, M. Klein, A. Rogantini Picco"]
-date: 2021-11-07
+title: "Monetary Policy and Labor Income Inequality"
+authors: ["P. Hubert, F. Savignac"]
+date: 2022-11-07
 doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-1T22:11:49+01:00
+publishDate: 2022-10-1T22:11:49+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2021-10-1T22:11:49+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ESCB Research Cluster on Monetary Economics, Fifth Annual workshop - 8/11/2021"
+publication: "Household Heterogeneity Conference, Banque de France - 28/11/2022"
 publication_short: ""
 
 abstract: ""
