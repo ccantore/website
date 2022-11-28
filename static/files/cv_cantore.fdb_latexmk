@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1663925752 "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex" "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" "cv_cantore" 1663925753
+["pdflatex"] 1669633555 "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex" "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" "cv_cantore" 1669633556
   "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux" 1612476759 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex" 1663925752 22505 53b358a3f3c557f12e1f7b12ca8aab99 ""
+  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex" 1669633554 22559 26173b4f86077f2a5eb4f217d0654741 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -85,10 +85,10 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636131119 2724739 fd0d80c697f47680c600b105fb389017 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "cv_cantore.aux" 1612476759 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv_cantore.tex" 1663925752 22505 53b358a3f3c557f12e1f7b12ca8aab99 ""
+  "cv_cantore.tex" 1669633554 22559 26173b4f86077f2a5eb4f217d0654741 ""
   "res.cls" 1612476759 25971 a4cc1ae9f1473be29084e6e8c1f4df9a ""
   (generated)
-  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf"
-  "cv_cantore.log"
-  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.log"
   "cv_cantore.pdf"
+  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf"
+  "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.log"
+  "cv_cantore.log"
