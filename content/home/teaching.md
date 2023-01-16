@@ -14,16 +14,19 @@ header:
   caption: ""
   image: ""
 ---
-#### 2021 - 2022
+#### 2022 - 2023
 
-* Monetary Economics and Aggregate Fluctuations (MSc - London School of Economics)
+* Contemporary Issues in Economics (UG - University of Surrey)
 
 * Macroeconomics (MRes - University of Surrey)
 
-
+* Economic Policy (MSc - Sapienza University)
+  
 #### Past Teaching
 
-University of Surrey: Macroeconomics at all levels; International trade and Data analyisis at undergraduate level.
+2022: London School of Economics - MSc 'Monetary Economics and Aggregate Fluctuations'.
+
+2009-2023: University of Surrey - Macroeconomics at all levels; International trade, Data analyisis and Contemporary issues in Economics at undergraduate level.
 
 Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey or in New Delhi, Porto, Glasgow, Birmingham, Cagliari, Abuja, Berlin and Turin. 
 

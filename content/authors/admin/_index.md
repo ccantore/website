@@ -102,7 +102,7 @@ I am a Research Advisor at the Research Hub of the [Bank of England](https://www
 
 **What's new?**
 - <span style="color:red">[1st of February]</span> Seminar at the University of York.
-- <span style="color:red">[1st March 2023]</span>  I will be joining the[‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
+- <span style="color:red">[1st March 2023]</span>  I will be joining the [‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
 
 
 
