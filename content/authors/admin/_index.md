@@ -101,9 +101,8 @@ user_groups:
 I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[28th November 2022]</span> [‘Household Heterogeneity’ at Banque de France](https://www.banque-france.fr/en/household-heterogeneity).
-- <span style="color:red">[2nd-3rd December 2022]</span> [‘4th European Midwest Micro/Macro Conference (EM3C)’ at Frankfurt School of Management](https://www.wiwi.uni-bonn.de/kuhn/Program_EM3C_2022.pdf).
-- <span style="color:red">[8th January 2023]</span> [‘Monetary Policy for Conventional Times: What Toolkit for the Future?’ at ASSA Meetings in New Orleans](https://www.aeaweb.org/conference/2023/preliminary/1335?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArOTGvJL8oFSiQklgJlcnMTYWwyjJTy0GmFBUUXDAFTA2UamsBJqgeRA,,).
+- <span style="color:red">[1st of February]</span> Seminar at the University of York.
+- <span style="color:red">[1st March 2023]</span>  I will be joining the[‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/) in Rome as Full Professor.
 
 
 
