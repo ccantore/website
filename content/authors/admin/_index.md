@@ -101,7 +101,7 @@ user_groups:
 I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[1st of February]</span> Seminar at the University of York.
+- <span style="color:red">[1st February 2023]</span> Seminar at the University of York.
 - <span style="color:red">[1st March 2023]</span>  I will be joining the [‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
 
 
