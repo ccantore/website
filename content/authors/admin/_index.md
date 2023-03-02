@@ -6,14 +6,14 @@ title: Cristiano Cantore
 superuser: true
 
 # Role/position/tagline
-role: Research Advisor / Reader
+role: Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Bank of England
-  url: https://www.bankofengland.co.uk/research/researchers/cristiano-cantore
-- name: University of Surrey
-  url: https://www.surrey.ac.uk/people/cristiano-cantore
+- name: Department of Economics and Law
+  url: https://web.uniroma1.it/dip_ecodir/en
+- name: Sapienza University of Rome
+  url: https://www.uniroma1.it/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Business Cycles, Monetary and Fiscal Policy, Labour Market and Inequality.
@@ -98,11 +98,12 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Research Advisor at the Research Hub of the [Bank of England](https://www.bankofengland.co.uk/research/researchers/cristiano-cantore) and a Reader in Economics at the [University of Surrey](https://www.surrey.ac.uk/people/cristiano-cantore). I am also a Pole Director at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
+I am a Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) of Sapienza University of Rome.
+I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[1st February 2023]</span> Seminar at the University of York.
-- <span style="color:red">[1st March 2023]</span>  I will be joining the [‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
+- <span style="color:red">[1st March 2023]</span>  I joined the [‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
+- <span style="color:red">[7st March 2023]</span> I will be presenting *A Tale of Labor Supply and a Tale of Monetary Policy* at Norges Bank in Oslo.
 
 
 
