@@ -103,7 +103,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 
 **What's new?**
 - <span style="color:red">[1st March 2023]</span>  I joined the [‘Department of Economics and Law’ at Sapienza University](https://web.uniroma1.it/dip_ecodir/en) in Rome as Full Professor.
-- <span style="color:red">[7st March 2023]</span> I will be presenting *A Tale of Labor Supply and a Tale of Monetary Policy* at Norges Bank in Oslo.
+- <span style="color:red">[7th March 2023]</span> I will be presenting *A Tale of Labor Supply and a Tale of Monetary Policy* at Norges Bank in Oslo.
 
 
 
