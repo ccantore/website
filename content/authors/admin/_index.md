@@ -102,7 +102,7 @@ I am a Professor of Economics at the [Department of Economics and Law](https://w
 I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
-- <span style="color:red">[8th March 2023]</span> Updatef version of  [A Tail of Labor Supply and a Tale of Monetary policy](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2023/CFMDP2023-08-Paper.pdf)
+- <span style="color:red">[8th March 2023]</span> Updated version of  [A Tail of Labor Supply and a Tale of Monetary policy](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2023/CFMDP2023-08-Paper.pdf)
 
 
 
