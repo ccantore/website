@@ -37,7 +37,7 @@ links:
 #  url: 
 
 
-url_pdf: "https://github.com/ccantore/Discussions/blob/main/discussion_Abad_Cantore_handout.pdf"
+url_pdf: "https://github.com/ccantore/Discussions/blob/main/Discussion_Lanteri_Rampini_Cantore.pdf"
 url_dataset:
 url_poster:
 url_project:
