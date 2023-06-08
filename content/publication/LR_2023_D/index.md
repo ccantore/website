@@ -3,7 +3,7 @@
 
 title: "Adoption of Clean Technology"
 authors: ["A. Lanteri and A. Rampini"]
-date: 2023-6-08
+date: 2023-06-08
 doi:
 
 # Schedule page publish date (NOT publication's date).
