@@ -14,13 +14,9 @@ header:
   caption: ""
   image: ""
 ---
-#### 2022 - 2023
+#### 2023 - 2024
 
-* Contemporary Issues in Economics (UG - University of Surrey)
-
-* Macroeconomics (MRes - University of Surrey)
-
-* [Economic Policy](https://www.dropbox.com/sh/5jqwt98j7zmcl20/AAA4aMtuvRFKkKYPHF6BJHMea?dl=0) (MSc - Sapienza University)
+* Teorie e Politiche Macroeconomiche [syllabus](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0) (Master in Economia Politica - Sapienza University)
   
 #### Past Teaching
 
