@@ -102,6 +102,7 @@ I am a Professor of Economics at the [Department of Economics and Law](https://w
 I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
 
 **What's new?**
+- <span style="color:red">[July 2023]</span> New WP [Unwinding quantitative easing: state dependency and household heterogeneity](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity.pdf)
 - <span style="color:red">[8-10 Setpember 2023]</span> [3rd Sailing the Macro Workshop](https://www.sailingthemacro.com)
 
 

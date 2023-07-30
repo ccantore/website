@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-dependent asset market operations, unwinding quantitative easing, and household heterogeneity"
+title: "Unwinding quantitative easing: state dependency and household heterogeneity"
 authors: ["Cristiano Cantore", "Pascal Meichtry"]
-date: 2022-02-09
+date: 2023-07-07
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This paper studies the macroeconomic effect of the state dependency of central bank asset market operations and their interactions with household heterogeneity. We build a New Keynesian model with borrowers and savers in which quantitative easing and tightening operate through portfolio rebalancing between short-term and long-term government bonds. We quantify the aggregate impact of an occasionally binding zero lower bound in determining an asymmetry between the effects of asset purchases and sales. When close to the lower bound, raising the nominal interest rate prior to unwinding quantitative easing minimises the economic costs of monetary policy normalisation. Furthermore, our results imply that household heterogeneity in combination with state dependency amplifies the revealed asymmetry, while household heterogeneity alone does not amplify the aggregate effects of asset market operations."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,8 +33,8 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: Coming soon
-#  url: ""
+- name: Bank of England SWP
+  url: "https://www.bankofengland.co.uk/working-paper/2023/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity"
 
 
 url_pdf:
