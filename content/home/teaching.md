@@ -43,7 +43,19 @@ Politica economica e l’integrazione finanziaria internazionale.
 {{< spoiler text="Testo" >}}
 Acocella N., Politica economica e strategie aziendali, Carocci, Roma.
 {{< /spoiler >}}
+{{< spoiler text="Valutazione" >}}
+L'esame consiste in una prova scritta e in una prova orale obbligatoria per poter ottenere un voto superiore al 25.
 
+La prova scritta consiste in circa 20 domande a risposta multipla, comprendente anche domande su grafici e alcuni esercizi numerici, a cui si deve rispondere in 30 minuti.
+
+In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie o preappelli. Gli esami si terranno nelle finestre temporali previste dalla Facoltà.
+{{< /spoiler >}}
+{{< spoiler text="Calendario lezioni" >}}
+Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
+Lunedì ore 14-16 (Aula da definire)
+Martedì ore 16-18 (Aula da definire)
+Mercoledì ore 18-20 (Aula da definire)
+{{< /spoiler >}}
 
 #### Past Teaching
 
