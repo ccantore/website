@@ -57,6 +57,10 @@ Martedì ore 16-18 (Aula da definire)
 Mercoledì ore 18-20 (Aula da definire)
 {{< /spoiler >}}
 
+* Office Hours - Orario di ricevimento
+  Tuesdays from 14 to 16 during term.
+  Martedì dalle 14 alle 16 durante il periodo di lezione. 
+
 #### Past Teaching
 
 2022: London School of Economics - MSc 'Monetary Economics and Aggregate Fluctuations'.
