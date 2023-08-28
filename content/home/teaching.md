@@ -16,7 +16,7 @@ header:
 ---
 #### 2023 - 2024
 
-* Teorie e Politiche Macroeconomiche (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
+* <b>Teorie e Politiche Macroeconomiche<\b> (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
 
 * Politica Economica (Undergraduate - Sapienza University)
 {{< spoiler text="Programma" >}}
@@ -61,7 +61,7 @@ Mercoledì ore 18-20 (Aula da definire)
 * Office Hours - Orario di ricevimento
   
   Tuesdays from 14 to 16 during term.
-  
+
   Martedì dalle 14 alle 16 durante il periodo di lezione. 
 
 #### Past Teaching
