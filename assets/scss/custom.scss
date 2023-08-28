@@ -1,0 +1,14 @@
+.text-to-toggle {
+    display: none;
+    margin-top: 10px;
+}
+
+.arrow {
+    transition: transform 0.3s;
+}
+
+.container button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
