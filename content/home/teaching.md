@@ -16,7 +16,7 @@ header:
 ---
 #### 2023 - 2024
 
-* <b>Teorie e Politiche Macroeconomiche<\b> (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
+* <b> Teorie e Politiche Macroeconomiche <b> (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
 
 * Politica Economica (Undergraduate - Sapienza University)
 {{< spoiler text="Programma" >}}
