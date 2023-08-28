@@ -29,3 +29,4 @@ header:
 Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey or in New Delhi, Porto, Glasgow, Birmingham, Cagliari, Abuja, Berlin and Turin. 
 
 
+<script type="text/javascript" src="/js/text-expand.js"></script>
