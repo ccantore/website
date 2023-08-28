@@ -59,7 +59,7 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 {{< /spoiler >}}
 <!-- Aggiungi elearning, calendario esami e risultati esami -->
 
-* Office Hours - Orario di ricevimento
+* <b> Office Hours - Orario di ricevimento </b>
   
   Tuesdays from 14 to 16 during term.
 
