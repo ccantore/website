@@ -59,7 +59,9 @@ Mercoledì ore 18-20 (Aula da definire)
 <!-- Aggiungi elearning, calendario esami e risultati esami -->
 
 * Office Hours - Orario di ricevimento
+  
   Tuesdays from 14 to 16 during term.
+  
   Martedì dalle 14 alle 16 durante il periodo di lezione. 
 
 #### Past Teaching
