@@ -40,7 +40,6 @@ Politica economica e crescita economica.
 Le regole automatiche, gli interventi discrezionali e le incoerenze temporali. 
 Politica economica e l’integrazione finanziaria internazionale.
 {{< /spoiler >}}
-
 {{< spoiler text="Testo" >}}
 Acocella N., Politica economica e strategie aziendali, Carocci, Roma.
 {{< /spoiler >}}
