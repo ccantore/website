@@ -19,7 +19,7 @@ header:
 * Teorie e Politiche Macroeconomiche (Master in Economia Politica - Sapienza University): [syllabus](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
 
 * Politica Economica (Undergraduate - Sapienza University)
-  [expand] TEST [/expand]
+  
 #### Past Teaching
 
 2022: London School of Economics - MSc 'Monetary Economics and Aggregate Fluctuations'.
@@ -29,4 +29,3 @@ header:
 Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey or in New Delhi, Porto, Glasgow, Birmingham, Cagliari, Abuja, Berlin and Turin. 
 
 
-<script type="text/javascript" src="/js/text-expand.js"></script>
