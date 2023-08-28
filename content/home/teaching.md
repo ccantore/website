@@ -20,6 +20,13 @@ header:
 {{< spoiler text="Programma e info" >}}
 Scarica il  [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
 {{< /spoiler >}}
+{{< spoiler text="Calendario lezioni" >}}
+Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
+
+* Lunedì ore 16-18 (Aula da definire)
+* Mercoledì ore 14-16 (Aula da definire)
+{{< /spoiler >}}
+<!-- Aggiungi elearning, calendario esami e risultati esami -->
 
 
 * <b> Politica Economica </b> (Undergraduate - Sapienza University)
