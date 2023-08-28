@@ -16,9 +16,9 @@ header:
 ---
 #### 2023 - 2024
 
-* <b> Teorie e Politiche Macroeconomiche <b> (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
+* <b> Teorie e Politiche Macroeconomiche </b> (Master in Economia Politica - Sapienza University): [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
 
-* Politica Economica (Undergraduate - Sapienza University)
+* <b> Politica Economica </b> (Undergraduate - Sapienza University)
 {{< spoiler text="Programma" >}}
 Il corso è finalizzato a fornire la conoscenza delle teorie, dei modelli e degli strumenti della politica economica e la capacità di applicarla con riferimento alle problematiche nazionali e internazionali, aziendali e istituzionali. 
 
@@ -52,9 +52,10 @@ In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie
 {{< /spoiler >}}
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
-Lunedì ore 14-16 (Aula da definire)
-Martedì ore 16-18 (Aula da definire)
-Mercoledì ore 18-20 (Aula da definire)
+
+* Lunedì ore 14-16 (Aula da definire)
+* Martedì ore 16-18 (Aula da definire)
+* Mercoledì ore 18-20 (Aula da definire)
 {{< /spoiler >}}
 <!-- Aggiungi elearning, calendario esami e risultati esami -->
 
