@@ -78,9 +78,9 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
 * <b> Office Hours - Orario di ricevimento </b>
   
-  Tuesdays from 14 to 16 during term.
+  Tuesdays from 14.30 to 15.30 during term.
 
-  Martedì dalle 14 alle 16 durante il periodo di lezione. 
+  Martedì dalle 14.30 alle 15.30 durante il periodo di lezione. 
 
 #### Past Teaching
 
