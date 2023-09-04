@@ -71,7 +71,6 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 * Martedì ore 16-18 (Aula da definire)
 * Mercoledì ore 18-20 (Aula da definire)
 {{< /spoiler >}}
-{{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
 {{< /spoiler >}}
