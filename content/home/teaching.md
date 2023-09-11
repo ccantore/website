@@ -23,8 +23,8 @@ Scarica il  [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_i
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
-* Lunedì ore 16-18 (Aula da definire)
-* Mercoledì ore 14-16 (Aula da definire)
+* Lunedì ore 16-18 (Edificio: RM019 - Aula di Matematica)
+* Mercoledì ore 14-16 (Edificio: RM019 - Laboratorio Informatico Ecodir)
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16792)
@@ -67,9 +67,9 @@ In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
-* Lunedì ore 14-16 (Aula da definire)
-* Martedì ore 16-18 (Aula da definire)
-* Mercoledì ore 18-20 (Aula da definire)
+* Lunedì ore 14-16 (Edificio: RM020 - Aula 10)
+* Martedì ore 16-18 (Edificio: RM020 - Aula 10)
+* Mercoledì ore 18-20 (Edificio: RM020 - Aula 10)
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
