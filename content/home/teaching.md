@@ -29,7 +29,7 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16792)
 {{< /spoiler >}}
-<!-- Aggiungi elearning, calendario esami e risultati esami -->
+<!-- calendario esami e risultati esami -->
 
 
 * <b> Politica Economica </b> (Undergraduate - Sapienza University)
