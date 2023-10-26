@@ -99,7 +99,7 @@ user_groups:
 ---
 
 I am a Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) of Sapienza University of Rome.
-I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people).
+I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people) and a Fellow at the [Rimini Centre for Economic Analysis](https://www.rcea.world/home).
 
 **What's new?**
 - <span style="color:red">[July 2023]</span> New Working Paper: [Unwinding quantitative easing: state dependency and household heterogeneity](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity.pdf)
