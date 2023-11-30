@@ -102,7 +102,7 @@ I am a Professor of Economics at the [Department of Economics and Law](https://w
 I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people) and a Fellow at the [Rimini Centre for Economic Analysis](https://www.rcea.world/home).
 
 **What's new?**
-- <span style="color:red">[18-19 December 2023]</span>[Workshop on Macroeconomics and Survey Data] (https://www.nbb.be/doc/ts/enterprise/activities/seminars/20231113surveyws_preliminaryprogramme.pdf) at the National Bank of Belgium.
+- <span style="color:red">[18-19 December 2023]</span> New Working Paper: [Workshop on Macroeconomics and Survey Data] (https://www.nbb.be/doc/ts/enterprise/activities/seminars/20231113surveyws_preliminaryprogramme.pdf) at the National Bank of Belgium.
 - <span style="color:red">[July 2023]</span> New Working Paper: [Unwinding quantitative easing: state dependency and household heterogeneity](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity.pdf)
 
 
