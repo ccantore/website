@@ -79,20 +79,20 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 I risultati dell'appello del 16/01/2024 sono disponibili al seguente link: https://docs.google.com/spreadsheets/d/14_FPKpAy2kjn_UObsanYpnw36u3v57VYgQ9TdA6OILA/edit
 
 
-Chi ha ottenuto un voto almeno pari a 18 può:
+**Chi ha ottenuto un voto almeno pari a 18 può**:
 - verbalizzare il voto dello scritto (il voto comunicato nel link di sopra già comprende l’eventuale bonus +1 per chi ha concluso la prova entro i 25 minuti): per verbalizzare NON è necessario comunicare nulla; oppure
 - sostenere la prova orale: in questo caso il voto finale sarà determinato dalla prova orale.
  
-Chi è risultato insufficiente (#N) dovrà sostenere di nuovo la prova scritta al prossimo esame oppure, solo se ritiene di essere adeguatamente preparato, può chiedere di sostenere l’esame orale.
+**Chi è risultato insufficiente** (#N) dovrà sostenere di nuovo la prova scritta al prossimo esame oppure, solo se ritiene di essere adeguatamente preparato, può chiedere di sostenere l’esame orale.
 
 Potete comunicare la vostra scelta entro e non oltre le ore 24 di sabato (20/01/2024) compilando la colonna "Scelta" nel foglio al link: https://docs.google.com/spreadsheets/d/14_FPKpAy2kjn_UObsanYpnw36u3v57VYgQ9TdA6OILA/edit
 
 Per rifiutare il voto, scrivete accanto alla vostra matricola nella colonna “Scelta”: NO 
 Per poter sostenere l'esame orale, scrivete accanto alla vostra matricola: ORALE 
 
-Non verranno prese in considerazione rifiuti o prenotazioni dell’orale mandati via mail.
+**Non verranno presi in considerazione rifiuti o prenotazioni dell’orale mandati via mail**.
 
-Si precisa che l'esame orale può portare ad un aumento o a una diminuzione del voto finale. Non è necessario comunicare alcuna scelta qualora si intenda accettare il voto.
+Si precisa che l'esame orale può portare ad un aumento o a una diminuzione del voto finale. **Non è necessario comunicare alcuna scelta qualora si intenda accettare il voto**.
 
 L'esame orale si svolgerà Lunedì 22/01/2024 a partire dalle ore 10.30 secondo un calendario che verrà preparato in base al numero di prenotati e comunicato Domenica 21. L’ aula sarà comunicata insieme al calendario.
 {{< /spoiler >}}
