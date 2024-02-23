@@ -103,7 +103,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 
 **What's new?**
 
-- <span style="color:red">[February 2024]</span> New Working Paper: [Monetary-Fiscal Interaction and the Liquidity of Government Debt]([Monetary-Fiscal Interaction and the Liquidity of Government Debt](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf))
+- <span style="color:red">[February 2024]</span> New Working Paper: [Monetary-Fiscal Interaction and the Liquidity of Government Debt](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf)
 
 
 
