@@ -4,7 +4,7 @@
 title: "Dual Mandate with Nominal Fiscal Policy: the case for
 price-level targeting"
 authors: ["Cristiano Cantore", "Vedanta Dhamija"]
-date: 2023-01-01
+date: 2024-01-01
 doi:
 
 # Schedule page publish date (NOT publication's date).
