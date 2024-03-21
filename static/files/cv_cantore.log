@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  6 JAN 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  21 MAR 2024 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,12 +307,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--145
 [2
 
 ] [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
@@ -320,13 +320,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--307
 Here is how much of TeX's memory you used:
  8028 strings out of 478994
  118597 string characters out of 5858184
- 424611 words of memory out of 5000000
+ 425611 words of memory out of 5000000
  25425 multiletter control sequences out of 15000+600000
  413615 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,1219b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" (6 pages, 203154 bytes).
+Output written on "/Users/cristiano/Dropbox/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf" (6 pages, 203248 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
