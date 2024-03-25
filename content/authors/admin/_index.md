@@ -103,12 +103,10 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 
 **What's new?**
 
-- <span style="color:red">[February 2024]</span> New Working Paper: [Monetary-Fiscal Interaction and the Liquidity of Government Debt](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf)
-- <span style="color:red">[19th March 2024]</span> DG-ECFIN Economic Seminar (Online)
-- <span style="color:red">[21th March 2024]</span> SNDE Conference at the University of Padua
+- <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)
 - <span style="color:red">[22nd April 2024]</span> Seminar at EIEF, Rome
 - <span style="color:red">[2nd May 2024]</span> Seminar at PSE, Paris
-
+- <span style="color:red">[February 2024]</span> New Working Paper: [Monetary-Fiscal Interaction and the Liquidity of Government Debt](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf)
 
 
 
