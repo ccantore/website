@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dual Mandate with Nominal Fiscal Policy: the case for
-price-level targeting"
+title: "The Perils of the Dual Mandate"
 authors: ["Cristiano Cantore", "Vedanta Dhamija"]
 date: 2024-01-01
 doi:
@@ -20,12 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We study the implications of a ‘dual mandate’ of price and output stability in a heterogeneous agent New Keynesian (HANK) economy where fiscal policy is committed to
-satisfying the present value government budget constraint at all times. In this economy, if the government chooses the quantity of nominal debt (or taxes), the price level can be
-determined even with an arbitrary interest rate path (Hagedorn 2021). But what happens if the monetary authority has a dual mandate? We show that local price level determinacy is not retained if the central bank aims to stabilize both inflation and output. This is because a positive response to economic activity in the Taylor rule leads to instability,
-and we find that this is due to the evolution of government spending. In the absence of a response to output in the Taylor rule, government spending acts as an automatic
-stabilizer. We show that this instability does not arise when the central bank targets the price level instead. We show that this instability does not arise when the central bank
-targets the price level instead, suggesting that central banks with a dual mandate might consider using a Wicksellian rule."
+abstract: "We study the implications of a ‘dual mandate’ of price and output stability in a heterogeneous agent New Keynesian economy where fiscal policy is set in nominal terms. Specifically, we explore the scenario where the government controls the quantity of nominal debt, enabling price level determination independent of the interest rate trajectory, as highlighted by Hagedorn (2021). Our analysis reveals that when the central bank pursues a dual mandate, local price level determinacy is compromised, and the economy may not converge to a stable equilibrium if the central bank aims to stabilize inflation and economic activity. This instability is attributed to the dynamics of government spending. In contrast, if the central bank stabilizes only inflation, real government spending acts as an automatic stabilizer. We demonstrate that targeting the price level can restore determinacy, positing that central banks with dual mandates may benefit from adopting a Wicksellian-type rule."
 
 # Summary. An optional shortened abstract.
 summary: ""
