@@ -104,7 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[1st June 2024]</span> [ICMAIF Conference](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf), University of Crete
+- <span style="color:red">[5th-8th September 2024]</span> [Sailing the Macro Workshop](https://sites.google.com/uniroma1.it/smw/call-for-papers), Ortygia Foundation
 
 
 

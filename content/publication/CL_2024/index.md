@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***R & R***, *European Economic Review*"
 publication_short: ""
 
 abstract: "How does the monetary and fiscal policy mix alter households' saving incentives? And what are the resulting implications on the evolution and stabilization of the economy? To answer these questions, we build a heterogenous agents New Keynesian model where 3 different types of agents can save in assets with different liquidity profiles to insure against idiosyncratic risk. Policy mixes affect saving incentives differently according to their effect on the liquidity premium- the return difference between less liquid assets and public debt. We derive an intuitive analytical expression linking the liquidity premium with consumption differentials amongst different types of agents. Our analysis highlights the presence of two competing forces on the liquidity premium: a *self-insurance-driven demand channel* and a *policy-driven supply channel}. We show that the relative strength of the two is tightly linked to the policy mix in place and the type of business cycle shock hitting the economy."
