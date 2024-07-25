@@ -3,7 +3,7 @@
 
 title: "Unwinding quantitative easing: state dependency and household heterogeneity"
 authors: ["Cristiano Cantore", "Pascal Meichtry"]
-date: 2023-07-07
+date: 2024-07-07
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,9 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: Bank of England SWP
+- name: Banque de France WP (2024)
+  url: "https://www.banque-france.fr/en/publications-and-statistics/publications/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity"
+- name: Bank of England SWP (2023)
   url: "https://www.bankofengland.co.uk/working-paper/2023/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity"
 
 
