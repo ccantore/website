@@ -67,19 +67,19 @@ In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
-* Martedì ore 16-18 <!--(Edificio: RM020 - Aula 10)
-* Mercoledì ore 18-20 <!--(Edificio: RM020 - Aula 10)
-* Venerdì ore 14-16 <!--(Edificio: RM020 - Aula 10)
+* Martedì ore 16-18 <!--(Edificio: RM020 - Aula 10)-->
+* Mercoledì ore 18-20 <!--(Edificio: RM020 - Aula 10)-->
+* Venerdì ore 14-16 <!--(Edificio: RM020 - Aula 10)-->
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
-<!--[Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)-->
+[Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
 {{< /spoiler >}}
 
-{{< spoiler text="Esame 07/02/2024" >}}
-<!-- Al seguente link e' disponibile il calendario degli orali che si terranno Martedì 23/1 pomeriggio:
+<!--{{< spoiler text="Esame 07/02/2024" >}}
+ Al seguente link e' disponibile il calendario degli orali che si terranno Martedì 23/1 pomeriggio:
 https://docs.google.com/spreadsheets/d/14_FPKpAy2kjn_UObsanYpnw36u3v57VYgQ9TdA6OILA/edit#gid=2092080232
 
-L'aula verra' comunicata solo a chi sosterrà l'esame. -->
+L'aula verra' comunicata solo a chi sosterrà l'esame. 
 
 I risultati dell'appello del 07/02/2024 sono disponibili al seguente link: https://docs.google.com/spreadsheets/d/14_FPKpAy2kjn_UObsanYpnw36u3v57VYgQ9TdA6OILA/edit
 
@@ -100,7 +100,7 @@ Per poter sostenere l'esame orale, scrivete accanto alla vostra matricola: ORALE
 Si precisa che l'esame orale può portare ad un aumento o a una diminuzione del voto finale. **Non è necessario comunicare alcuna scelta qualora si intenda accettare il voto**.
 
 L'esame orale si svolgerà Martedì 13/01/2024 a partire dalle ore 10.00 secondo un calendario che verrà preparato in base al numero di prenotati e comunicato Lunedì 12. L’ aula sarà comunicata insieme al calendario. 
-{{< /spoiler >}}
+{{< /spoiler >}}-->
 <!-- calendario esami e risultati esami -->
 
 * <b> Office Hours - Orario di ricevimento </b>
