@@ -14,17 +14,17 @@ header:
   caption: ""
   image: ""
 ---
-#### 2023 - 2024
+#### 2024 - 2025
 
 * <b> Teorie e Politiche Macroeconomiche </b> (Master in Economia Politica - Sapienza University)
 {{< spoiler text="Programma e info" >}}
-Scarica il  [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)
+<!--Scarica il  [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)-->
 {{< /spoiler >}}
 {{< spoiler text="Calendario lezioni" >}}
-Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
+Le lezioni inizieranno lunedì 23 settembre 2024 con il seguente calendario:
 
-* Lunedì ore 16-18 (Edificio: RM019 - Aula di Matematica)
-* Mercoledì ore 16-18 (Edificio: RM019 - Aula di Matematica)
+* Martedì ore 8-10 <!--(Edificio: RM019 - Aula di Matematica)-->
+* Mercoledì ore 16-18 <!--(Edificio: RM019 - Aula di Matematica)-->
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16792)
@@ -67,12 +67,12 @@ In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
-* Lunedì ore 14-16 (Edificio: RM020 - Aula 10)
-* Martedì ore 16-18 (Edificio: RM020 - Aula 10)
-* Mercoledì ore 18-20 (Edificio: RM020 - Aula 10)
+* Martedì ore 16-18 <!--(Edificio: RM020 - Aula 10)
+* Mercoledì ore 18-20 <!--(Edificio: RM020 - Aula 10)
+* Venerdì ore 14-16 <!--(Edificio: RM020 - Aula 10)
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
-[Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
+<!--[Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)-->
 {{< /spoiler >}}
 
 {{< spoiler text="Esame 07/02/2024" >}}
