@@ -111,6 +111,10 @@ L'esame orale si svolgerà Martedì 13/01/2024 a partire dalle ore 10.00 secondo
 
 #### Past Teaching
 
+2023 to date: Sapienza University of Rome - Teorie e Politiche Macroeconomiche - Laurea Magistrale in Economia Politica; Politica Economica - Laurea Triennale in Economia e Finanza. 
+
+2023: Economic Policy - MSc in Economics Sapienza University.
+
 2022: London School of Economics - MSc 'Monetary Economics and Aggregate Fluctuations'.
 
 2009-2023: University of Surrey - Macroeconomics at all levels; International trade, Data analyisis and Contemporary issues in Economics at undergraduate level.
