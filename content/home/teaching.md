@@ -18,7 +18,7 @@ header:
 
 * <b> Teorie e Politiche Macroeconomiche </b> (Master in Economia Politica - Sapienza University)
 {{< spoiler text="Programma e info" >}}
-<!--Scarica il  [programma](https://www.dropbox.com/s/w6gvgm46c56wxy5/TPM_syllabus_ita.pdf?dl=0)-->
+Scarica il  [programma](https://www.dropbox.com/scl/fi/c93ywnp62an1cxxxs6ey8/TPM_syllabus_ita.pdf?rlkey=d8yg8t697dhccgxgfzrk8dxoa&dl=0)
 {{< /spoiler >}}
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 23 settembre 2024 con il seguente calendario:
