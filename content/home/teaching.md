@@ -23,8 +23,8 @@ Scarica il  [programma](https://www.dropbox.com/scl/fi/c93ywnp62an1cxxxs6ey8/TPM
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 23 settembre 2024 con il seguente calendario:
 
-* Martedì ore 8-10 <!--(Edificio: RM019 - Aula di Matematica)-->
-* Mercoledì ore 16-18 <!--(Edificio: RM019 - Aula di Matematica)-->
+* Martedì ore 8-10 (Edificio: RM019 - Aula di Matematica)
+* Mercoledì ore 16-18 (Edificio: RM019 - Aula di Matematica)
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16792)
@@ -67,9 +67,9 @@ In linea con quanto stabilito dalla facoltà, non sono previste prove intermedie
 {{< spoiler text="Calendario lezioni" >}}
 Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 
-* Martedì ore 16-18 <!--(Edificio: RM020 - Aula 10)-->
-* Mercoledì ore 18-20 <!--(Edificio: RM020 - Aula 10)-->
-* Venerdì ore 14-16 <!--(Edificio: RM020 - Aula 10)-->
+* Martedì ore 16-18 (Edificio: RM020 - Aula 5 Federico Caffè)
+* Mercoledì ore 18-20 (Edificio: RM020 - Aula 10)
+* Venerdì ore 14-16 (Edificio: RM020 -Aula 5 Federico Caffè)
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
