@@ -13,13 +13,17 @@ publishDate: 2020-11-1T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***R & R***, *European Economic Review*"
+publication: "*European Economic Review* *forthcoming*"
 publication_short: ""
 
-abstract: "This paper studies the asymmetry in the macroeconomic effects of central bank asset market operations induced by state dependency and the associated role of household heterogeneity. We build a New Keynesian model with borrowers and savers in which quantitative easing and tightening operate through portfolio rebalancing between short-term and long-term government bonds. We highlight the significance of an occasionally binding zero lower bound in explaining a weaker aggregate impact of asset sales relative to asset purchases. In this context, when close to the lower bound, raising the nominal interest rate prior to unwinding quantitative easing mitigates the economic costs of monetary policy normalization. Furthermore, our results imply that household heterogeneity in combination with state dependency amplifies the revealed asymmetry, while household heterogeneity alone does not enhance the aggregate effects of asset market operations."
+abstract: "    This paper studies the asymmetry in the macroeconomic effects of central bank asset market operations induced by state dependency and the associated role of household heterogeneity.
+    We build a New Keynesian model with borrowers and savers in which quantitative easing and tightening operate through portfolio rebalancing between short-term and long-term government bonds. 
+    We highlight the significance of an occasionally binding zero lower bound in explaining a weaker aggregate impact of asset sales relative to asset purchases.
+    In this context, when close to the lower bound, raising the nominal interest rate prior to unwinding quantitative easing mitigates the economic costs of monetary policy normalization.
+    Furthermore, our results imply that household heterogeneity in combination with state dependency amplifies the revealed asymmetry, while household heterogeneity alone does not enhance the aggregate effects of asset market operations."
 
 # Summary. An optional shortened abstract.
 summary: ""
