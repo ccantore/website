@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*European Economic Review* *forthcoming*"
+publication: "***European Economic Review*** ***forthcoming***"
 publication_short: ""
 
 abstract: "    This paper studies the asymmetry in the macroeconomic effects of central bank asset market operations induced by state dependency and the associated role of household heterogeneity.
