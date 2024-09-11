@@ -28,7 +28,7 @@ abstract: "    This paper studies the asymmetry in the macroeconomic effects of 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working papers"]
+tags: ["publications"]
 categories: []
 featured: false
 
