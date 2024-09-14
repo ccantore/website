@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***European Economic Review*** ***forthcoming***"
+publication: "***European Economic Review***, vol 170,  104865"
 publication_short: ""
 
 abstract: "    This paper studies the asymmetry in the macroeconomic effects of central bank asset market operations induced by state dependency and the associated role of household heterogeneity.
@@ -37,6 +37,8 @@ featured: false
 links:
 #- name: Presentation
 #  url:
+- name: Published Version
+  url: "https://www.sciencedirect.com/science/article/pii/S0014292124001946?dgcid=author"
 - name: Banque de France WP (2024)
   url: "https://www.banque-france.fr/en/publications-and-statistics/publications/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity"
 - name: Bank of England SWP (2023)
