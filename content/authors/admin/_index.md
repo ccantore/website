@@ -104,7 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[5th-8th September 2024]</span> [Sailing the Macro Workshop](https://sites.google.com/uniroma1.it/smw/call-for-papers), Ortygia Foundation
+- <span style="color:red">[September 2024]</span> [Unwinding quantitative easing: State dependency and household heterogeneity](https://www.sciencedirect.com/science/article/pii/S0014292124001946?dgcid=author) published in the European Economic Review
 
 
 
