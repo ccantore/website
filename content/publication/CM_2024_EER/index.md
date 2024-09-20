@@ -39,6 +39,10 @@ links:
 #  url:
 - name: Published Version
   url: "https://www.sciencedirect.com/science/article/pii/S0014292124001946?dgcid=author"
+- name: Online Appendix
+  url: "https://pmeichtry.github.io/Papers/UnwindingQE_CantoreMeichtry_OnlineAppendix.pdf"
+- name: Code
+  url: "https://github.com/pmeichtry/replication-Unwinding-QE/tree/main"
 - name: Banque de France WP (2024)
   url: "https://www.banque-france.fr/en/publications-and-statistics/publications/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity"
 - name: Bank of England SWP (2023)
