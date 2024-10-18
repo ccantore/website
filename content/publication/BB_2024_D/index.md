@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "For whom the bill tolls: redistributive consequences of a monetary-fiscal stimulus"
-authors: ["M. Brzoza-Brzezina, J. Jablo\'{n}ska, M. Kolasa, K. Makarski"]
+authors: ["M. Brzoza-Brzezina, J. Jablonska, M. Kolasa, K. Makarski"]
 date: 2024-01-08
 doi:
 
