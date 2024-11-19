@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Perils of the Dual Mandate"
+title: "The Perils of a Dual Mandate"
 authors: ["Cristiano Cantore", "Vedanta Dhamija"]
 date: 2024-01-01
 doi:
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We study the implications of a ‘dual mandate’ of price and output stability in a heterogeneous agent New Keynesian economy where fiscal policy is set in nominal terms. Specifically, we explore the scenario where the government controls the quantity of nominal debt, enabling price level determination independent of the interest rate trajectory, as highlighted by Hagedorn (2021). Our analysis reveals that when the central bank pursues a dual mandate, local price level determinacy is compromised, and the economy may not converge to a stable equilibrium if the central bank aims to stabilize inflation and economic activity. This instability is attributed to the dynamics of government spending. In contrast, if the central bank stabilizes only inflation, real government spending acts as an automatic stabilizer. We demonstrate that targeting the price level can restore determinacy, positing that central banks with dual mandates may benefit from adopting a Wicksellian-type rule."
+abstract: "We study the implications of a ‘dual mandate’ of price and output stability in a heterogeneous agent New Keynesian economy where fiscal policy is set in nominal terms. Specifically, the government controls the quantity of nominal debt, enabling price level determination independently of the interest rate trajectory \citep{hagedorn2016demand}. Our findings indicate that under an inflation-targeting regime, price level determinacy is often the exception than the norm when the central bank pursues a dual mandate.  The dynamics of government spending emerge as a crucial driver of this result. To address this challenge, we show that possible solutions include price level targeting and stabilizing consumption inequality."
 
 # Summary. An optional shortened abstract.
 summary: ""
