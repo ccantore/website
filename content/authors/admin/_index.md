@@ -104,8 +104,8 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[September 2024]</span> [Unwinding quantitative easing: State dependency and household heterogeneity](https://www.sciencedirect.com/science/article/pii/S0014292124001946?dgcid=author) published in the European Economic Review
-
+- <span style="color:red">[December 2024]</span> New Working Paper: [The Perils of a Dual Mandate](https://ora.ox.ac.uk/objects/uuid:86c22415-bd21-4331-b516-8c8e60df7845/files/szw12z734f) 
+- <span style="color:red">[19th-20th December 2024]</span> Quantitave Macroeconomic Workshop at the Reserve Bank of Australia, Sydney 
 
 
 
