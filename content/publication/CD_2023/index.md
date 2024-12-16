@@ -3,7 +3,7 @@
 
 title: "The Perils of a Dual Mandate"
 authors: ["Cristiano Cantore", "Vedanta Dhamija"]
-date: 2024-02-02
+date: 2024-12-02
 doi:
 
 # Schedule page publish date (NOT publication's date).
