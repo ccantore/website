@@ -16,6 +16,8 @@ header:
 ---
 #### In the Media
 
+* Article on **Menabò** (*in Italian*): <a href="https://eticaeconomia.it/disuguaglianza-e-politica-monetaria/">Disuguaglianza e Politica Monetaria</a>
+
 * Blog post on **Bank Underground**: <a href="https://bankunderground.co.uk/2020/08/07/covid-19-briefing-epi-macro-101/">Covid-19 briefing: epi-macro 101</a>
 
 * Blog post on **Bank Underground**: <a href="https://bankunderground.co.uk/2019/03/27/the-missing-link-monetary-policy-and-the-labor-share/">The Missing Link: Monetary Policy and The Labor Share</a>
