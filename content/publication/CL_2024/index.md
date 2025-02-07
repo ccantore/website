@@ -3,7 +3,7 @@
 
 title: "Monetary-Fiscal Interaction and the Liquidity of Government Debt"
 authors: ["Cristiano Cantore", "Edoardo Leonardi"]
-date: 2024-01-01
+date: 2025-01-01
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -13,18 +13,18 @@ publishDate: 2020-11-1T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***R & R***, *European Economic Review*"
+publication: "***European Economic Review***, *Forthcoming*"
 publication_short: ""
 
-abstract: "How does the monetary and fiscal policy mix alter households' saving incentives? And what are the resulting implications on the evolution and stabilization of the economy? To answer these questions, we build a heterogenous agents New Keynesian model where 3 different types of agents can save in assets with different liquidity profiles to insure against idiosyncratic risk. Policy mixes affect saving incentives differently according to their effect on the liquidity premium- the return difference between less liquid assets and public debt. We derive an intuitive analytical expression linking the liquidity premium with consumption differentials amongst different types of agents. Our analysis highlights the presence of two competing forces on the liquidity premium: a *self-insurance-driven demand channel* and a *policy-driven supply channel}. We show that the relative strength of the two is tightly linked to the policy mix in place and the type of business cycle shock hitting the economy."
+abstract: "How does the monetary and fiscal policy mix alter households’ saving incentives? To answer these questions, we build a heterogenous agents New Keynesian model where three different types of agents can save in assets with different liquidity profiles to insure against idiosyncratic risk. Policy mixes affect saving incentives differently according to their effect on the liquidity premium- the return difference between less liquid assets and public debt. We derive an intuitive analytical expression linking the liquidity premium with consumption differentials amongst different types of agents. This underscores the presence of a transmission mechanism through which the interaction of monetary and fiscal policy shapes economic stability via its effect on the portfolio choice of private agents. We call it the self-insurance demand channel, which moves the liquidity premium in the opposite direction to the standard policy-driven supply channel. Our analysis thus reveals the presence of two competing forces driving the liquidity premium. We show that the relative strength of the two is tightly linked to the policy mix in place and the type of business cycle shock hitting the economy. This implies that to stabilize the economy, monetary policy should consider the impact of the self-insurance on the liquidity premium."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working papers"]
+tags: ["publications"]
 categories: []
 featured: false
 
@@ -33,9 +33,10 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: CFM Working Paper
-  url: "https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-06-Paper.pdf"
-
+- name: Published Version - Open access
+  url: "https://www.sciencedirect.com/science/article/pii/S0014292125000297"
+- name: Codes
+  url: "https://github.com/ccantore/MFI_LGD_replication" 
 
 url_pdf:
 url_dataset:
