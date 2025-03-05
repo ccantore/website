@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Monetary-fiscal interactions and liquidity of government debt"
-authors: ["Cristiano Cantore", "Edoardo Leonardi"]
-date: 2021-01-10
+title: "The Unequal Costs of Pollution: Carbon Tax, Inequality, and Redistribution"
+authors: ["Cristiano Cantore", "Giovanni Di Bartolomeo", "Francesco Saverio Gaudio"]
+date: 2025-03-01
 doi:
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2020-11-1T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Submitted*"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper studies how household heterogeneity affects the level and cyclical behavior of the optimal carbon tax in a real economy. We demonstrate that an equity-efficiency trade-off arises due to income inequality and heterogeneity in the marginal disutility of pollution. Two scenarios are analyzed: one with unrestricted income redistribution to mitigate inequality and another where redistribution is constrained to carbon tax revenues. Our findings reveal that household heterogeneity and redistribution policies significantly shape the level and cyclical behavior of the optimal carbon tax, decoupling it from the social cost of carbon. When the planner prioritizes redistribution towards poorer households, the optimal tax rate is lower than in the unconstrained scenario, and its fluctuations are amplified by countercyclical inequality."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,8 +33,8 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: Coming soon
-#  url: ""
+- name: Working Paper
+  url: "https://arxiv.org/pdf/2503.00142"
 
 
 url_pdf:
