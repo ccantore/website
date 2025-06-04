@@ -35,8 +35,9 @@ links:
 #  url:
 - name: Working Paper
   url: "https://arxiv.org/pdf/2503.00142"
-
-
+- name: X thread 
+  url: "https://x.com/c_cantore/status/1896932199007650279"
+  
 url_pdf:
 url_dataset:
 url_poster:

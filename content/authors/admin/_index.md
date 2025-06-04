@@ -104,8 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[March 2025]</span> New WP: [The Unequal Costs of Pollution: Carbon Tax, Inequality, and Redistribution](https://arxiv.org/pdf/2503.00142) - [X thread](https://x.com/c_cantore/status/1896932199007650279)
-- <span style="color:red">[February 2025]</span> Fresh off the press: [Monetary-Fiscal Interaction and the Liquidity of Government Debt](https://www.sciencedirect.com/science/article/pii/S0014292125000297) ***European Economic Review***
+- <span style="color:red">[June 2026]</span> Presenting "The Unequal Costs of Pollution: Carbon Tax, Inequality, and Redistribution" at the BSE Summer Forum on [Firms in a Changing Background: New Technologies, Climate Change, and Emerging Challenges](https://bse.eu/summer-forum/workshops/firms-in-changing-background) 
 - <span style="color:red">[22nd-22rd May 2025]</span> [Sapienza Macro Days](https://www.dropbox.com/scl/fi/u0xkt3dqiu2nq1mqjsvce/workshop_22-23-May_Sapienza.pdf?rlkey=6yo243fw9efzz18vducsu98si&dl=0) 
 - <span style="color:red">[5th-7th September 2025]</span> [5th Sailing the Macro Workshop](https://sailingthemacro.org/#home) 
 
