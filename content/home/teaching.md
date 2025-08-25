@@ -118,6 +118,6 @@ TBD
 
 2009-2023: University of Surrey - Macroeconomics at all levels; International trade, Data analyisis and Contemporary issues in Economics at undergraduate level.
 
-Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey or in New Delhi, Porto, Glasgow, Birmingham, Cagliari, Abuja, Berlin and Turin. 
+Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey (UK) and in Asunción (Paraguay), New Delhi (India), Porto (Portugal), Glasgow (UK), Birmingham (UK), Cagliari (Italy), Abuja (Nigeria), Berlin (Germany) and Turin (Italy). 
 
 
