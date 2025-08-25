@@ -19,14 +19,14 @@ header:
 ##### Fall
 
 * <b> Computational Tools for Macroeconomics </b> (MSc in Economics - Sapienza University)
-[website](https://ccantore.github.io/computational-macro-matlab/)
+  - [website](https://ccantore.github.io/computational-macro-matlab/)
 
 * <b> Economia Politica </b> (Undergraduate - Sapienza University)
 
 
 ##### Spring
 
-* <b> HANK </b> (RED PhD in Economics - )
+* <b> HANK Models </b> ([RED PhD in Economics](https://www.redphd.it) - EIEF, Luiss, Sapienza \& Tor Vergata)
 
 * <b> Macroeconomic Theory and Policy </b> (MSc in Economics - Sapienza University)
 
