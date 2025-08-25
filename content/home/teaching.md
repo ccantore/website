@@ -103,6 +103,7 @@ L'esame orale si svolgerà Martedì 13/01/2024 a partire dalle ore 10.00 secondo
 <!-- calendario esami e risultati esami -->
 
 * <b> Office Hours - Orario di ricevimento </b>
+  
 TBD  
   <!-- Tuesdays from 14.30 to 15.30 during term.
 
