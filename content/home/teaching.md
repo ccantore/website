@@ -102,22 +102,21 @@ L'esame orale si svolgerà Martedì 13/01/2024 a partire dalle ore 10.00 secondo
 {{< /spoiler >}}-->
 <!-- calendario esami e risultati esami -->
 
-* <b> Office Hours - Orario di ricevimento </b>
+<!-- * <b> Office Hours - Orario di ricevimento: </b> TBD   -->
   
-TBD  
   <!-- Tuesdays from 14.30 to 15.30 during term.
 
   Martedì dalle 14.30 alle 15.30 durante il periodo di lezione.  -->
 
 #### Past Teaching
 
-2023 to 2025: Sapienza University of Rome - Teorie e Politiche Macroeconomiche - Laurea Magistrale in Economia Politica; Politica Economica - Laurea Triennale in Economia e Finanza. 
+2023 to 2025: @ Sapienza University of Rome - Teorie e Politiche Macroeconomiche - Laurea Magistrale in Economia Politica; Politica Economica - Laurea Triennale in Economia e Finanza. 
 
-2023: Economic Policy - MSc in Economics Sapienza University.
+2023: Economic Policy - MSc in Economics @ Sapienza University.
 
-2022: London School of Economics - MSc 'Monetary Economics and Aggregate Fluctuations'.
+2022: Monetary Economics and Aggregate Fluctuations- MSc in Economics @ London School of Economics .
 
-2009-2023: University of Surrey - Macroeconomics at all levels; International trade, Data analyisis and Contemporary issues in Economics at undergraduate level.
+2009-2023: @ University of Surrey - Macroeconomics at all levels; International trade, Data analyisis and Contemporary issues in Economics at undergraduate level.
 
 Over the years I have been teaching various courses on Dynamic Stochastic General Equilibrium (DSGE) models construction, simulation and estimations using <a href="http://www.dynare.org">Dynare</a> at the University of Surrey (UK) and in Asunción (Paraguay), New Delhi (India), Porto (Portugal), Glasgow (UK), Birmingham (UK), Cagliari (Italy), Abuja (Nigeria), Berlin (Germany) and Turin (Italy). 
 
