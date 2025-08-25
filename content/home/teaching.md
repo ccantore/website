@@ -14,25 +14,24 @@ header:
   caption: ""
   image: ""
 ---
-#### 2024 - 2025
+#### 2025 - 2026
 
-* <b> Teorie e Politiche Macroeconomiche </b> (Master in Economia Politica - Sapienza University)
-{{< spoiler text="Programma e info" >}}
-Scarica il  [programma](https://www.dropbox.com/scl/fi/c93ywnp62an1cxxxs6ey8/TPM_syllabus_ita.pdf?rlkey=d8yg8t697dhccgxgfzrk8dxoa&dl=0)
-{{< /spoiler >}}
-{{< spoiler text="Calendario lezioni" >}}
-Le lezioni inizieranno lunedì 23 settembre 2024 con il seguente calendario:
+##### Fall
 
-* Martedì ore 8-10 (Edificio: RM019 - Aula di Matematica)
-* Mercoledì ore 16-18 (Edificio: RM019 - Aula di Matematica)
-{{< /spoiler >}}
-{{< spoiler text="Elearning" >}}
-[Moodle](https://elearning.uniroma1.it/course/view.php?id=16792)
-{{< /spoiler >}}
-<!-- calendario esami e risultati esami -->
+* <b> Computational Tools for Macroeconomics </b> (MSc in Economics - Sapienza University)
+[website](https://ccantore.github.io/computational-macro-matlab/)
+
+* <b> Economia Politica </b> (Undergraduate - Sapienza University)
 
 
-* <b> Politica Economica </b> (Undergraduate - Sapienza University)
+##### Spring
+
+* <b> HANK </b> (RED PhD in Economics - )
+
+* <b> Macroeconomic Theory and Policy </b> (MSc in Economics - Sapienza University)
+
+
+<!-- * <b> Politica Economica </b> (Undergraduate - Sapienza University)
 {{< spoiler text="Programma" >}}
 Il corso è finalizzato a fornire la conoscenza delle teorie, dei modelli e degli strumenti della politica economica e la capacità di applicarla con riferimento alle problematiche nazionali e internazionali, aziendali e istituzionali. 
 
@@ -73,7 +72,7 @@ Le lezioni inizieranno lunedì 18 settembre 2023 con il seguente calendario:
 {{< /spoiler >}}
 {{< spoiler text="Elearning" >}}
 [Moodle](https://elearning.uniroma1.it/course/view.php?id=16791)
-{{< /spoiler >}}
+{{< /spoiler >}} -->
 
 <!--{{< spoiler text="Esame 07/02/2024" >}}
  Al seguente link e' disponibile il calendario degli orali che si terranno Martedì 23/1 pomeriggio:
@@ -104,14 +103,14 @@ L'esame orale si svolgerà Martedì 13/01/2024 a partire dalle ore 10.00 secondo
 <!-- calendario esami e risultati esami -->
 
 * <b> Office Hours - Orario di ricevimento </b>
-  
-  Tuesdays from 14.30 to 15.30 during term.
+TBD  
+  <!-- Tuesdays from 14.30 to 15.30 during term.
 
-  Martedì dalle 14.30 alle 15.30 durante il periodo di lezione. 
+  Martedì dalle 14.30 alle 15.30 durante il periodo di lezione.  -->
 
 #### Past Teaching
 
-2023 to date: Sapienza University of Rome - Teorie e Politiche Macroeconomiche - Laurea Magistrale in Economia Politica; Politica Economica - Laurea Triennale in Economia e Finanza. 
+2023 to 2025: Sapienza University of Rome - Teorie e Politiche Macroeconomiche - Laurea Magistrale in Economia Politica; Politica Economica - Laurea Triennale in Economia e Finanza. 
 
 2023: Economic Policy - MSc in Economics Sapienza University.
 
