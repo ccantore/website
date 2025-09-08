@@ -34,10 +34,10 @@ Il programma si articola in due parti:  
 
 Il corso si sviluppa attraverso:  
 - Videolezioni settimanali registrate (12 ore complessive), suddivise in moduli brevi per facilitare l’apprendimento;  
-- Lezioni sincrone online (12 ore), di introduzione e discussione interattiva. Un ora a settimana il lunedi' dalle 9 alle 10 con inizio il 15 Settembre. Zoom [Link](uniroma1.zoom.us/j/4281494186?_x_zm_rtaid=AyJOYajHRR-4P0ywjEjGLQ.1757361091913.d3baa7aab34c85ef6313c97596df2750&_x_zm_rhtaid=149#success) per accedere alle lezioni sincrone
+- Lezioni sincrone online (12 ore), di introduzione e discussione interattiva. Un ora a settimana il lunedi' dalle 9 alle 10 con inizio il 15 Settembre. Zoom [Link](https://uniroma1.zoom.us/j/4281494186?_x_zm_rtaid=AyJOYajHRR-4P0ywjEjGLQ.1757361091913.d3baa7aab34c85ef6313c97596df2750&_x_zm_rhtaid=149#success) per accedere alle lezioni sincrone
 - E-tivities (18 ore), esercitazioni e attività di autovalutazione da svolgere individualmente.  
 
-Tutto il materiale del corso e' disponibile [qui](elearning.unitelma.it/course/view.php?id=5302).  
+Tutto il materiale del corso e' disponibile [qui](https://elearning.unitelma.it/course/view.php?id=5302).  
 {{< /spoiler >}}
 
 
