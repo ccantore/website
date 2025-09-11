@@ -29,12 +29,12 @@ Il corso di **Economia Politica** fornisce agli studenti gli strumenti teorici
 
 Programma d’esame, videolezioni e CFU del corso di "Economia Politica"
 Il programma si articola in due parti:  
-- **Microeconomia**, dedicata all’analisi dei comportamenti individuali, della domanda e dell’offerta, della scelta del consumatore, della produzione e delle diverse forme di mercato.  
-- **Macroeconomia**, incentrata su reddito e spesa, moneta e politica fiscale e monetaria, fino ai temi dell’occupazione, inflazione e crescita economica.
+  - **Microeconomia**, dedicata all’analisi dei comportamenti individuali, della domanda e dell’offerta, della scelta del consumatore, della produzione e delle diverse forme di mercato.  
+  - **Macroeconomia**, incentrata su reddito e spesa, moneta e politica fiscale e monetaria, fino ai temi dell’occupazione, inflazione e crescita economica.
 
 Il corso si sviluppa attraverso:  
 - Videolezioni settimanali registrate (12 ore complessive), suddivise in moduli brevi per facilitare l’apprendimento;  
-- Lezioni sincrone online (12 ore), di introduzione e discussione interattiva. Un ora a settimana il lunedi' dalle 9 alle 10 con inizio il 15 Settembre. Zoom [Link](https://uniroma1.zoom.us/j/4281494186?_x_zm_rtaid=AyJOYajHRR-4P0ywjEjGLQ.1757361091913.d3baa7aab34c85ef6313c97596df2750&_x_zm_rhtaid=149#success) per accedere alle lezioni sincrone
+- Lezioni sincrone online (12 ore), di introduzione e discussione interattiva. Un ora a settimana il lunedi' dalle 9 alle 10 con inizio il 15 Settembre. Zoom [Link](https://uniroma1.zoom.us/j/4281494186?_x_zm_rtaid=AyJOYajHRR-4P0ywjEjGLQ.1757361091913.d3baa7aab34c85ef6313c97596df2750&_x_zm_rhtaid=149#success) per accedere alle lezioni sincrone. Le lezioni sincrone saranno comunque registrate e disponibili successivamente.
 - E-tivities (18 ore), esercitazioni e attività di autovalutazione da svolgere individualmente.  
 
 Tutto il materiale del corso e' disponibile [qui](https://elearning.unitelma.it/course/view.php?id=5302).  
