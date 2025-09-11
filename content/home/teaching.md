@@ -29,6 +29,7 @@ Il corso di **Economia Politica** fornisce agli studenti gli strumenti teorici
 
 Programma d’esame, videolezioni e CFU del corso di "Economia Politica"
 Il programma si articola in due parti:  
+
   - **Microeconomia**, dedicata all’analisi dei comportamenti individuali, della domanda e dell’offerta, della scelta del consumatore, della produzione e delle diverse forme di mercato.  
   - **Macroeconomia**, incentrata su reddito e spesa, moneta e politica fiscale e monetaria, fino ai temi dell’occupazione, inflazione e crescita economica.
 
