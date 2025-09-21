@@ -43,7 +43,7 @@ Tutto il materiale del corso e' disponibile [qui](https://elearning.unitelma.it/
 
 ##### Spring
 
-* <b> HANK Models </b> ([RED PhD in Economics](https://www.redphd.it) - EIEF, Luiss, Sapienza \& Tor Vergata)
+* <b> [HANK Models](https://www.redphd.it/public/red/files/HANK_Cantore_syllabus.pdf) </b> ([RED PhD in Economics](https://www.redphd.it) - EIEF, Luiss, Sapienza \& Tor Vergata)
 
 * <b> Macroeconomic Theory and Policy </b> (MSc in Economics - Sapienza University)
 
