@@ -104,6 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
+- <span style="color:red">[September 2025]</span> New version of "[A Tail of Labor Supply and a Tail of Monetary Policy](http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf)"
 - <span style="color:red">[September 2025]</span> Presenting "The Unequal Costs of Pollution: Carbon Tax, Inequality, and Redistribution" at the [PSE Macro Days](https://www.parisschoolofeconomics.eu/en/events/pse-macro-days-2025-2/) 
 
 
