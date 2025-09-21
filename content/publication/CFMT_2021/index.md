@@ -35,13 +35,16 @@ links:
 #  url:
 #- name: Coming soon
 #  url: ""
-- name: Chicago Fed Letter
+- name: UniBo WP (2025)
+  url: "http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf"
+
+- name: Chicago Fed Letter (2022)
   url: "https://www.chicagofed.org/publications/chicago-fed-letter/2022/472"
 
-- name: Non-technical summary
+- name: Non-technical summary (2023)
   url: "https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2023/CFMDP2023-08-Summary.pdf"
 
-- name: CFM WP
+- name: CFM WP  (2023)
   url: "https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2023/CFMDP2023-08-Paper.pdf"
 
 
