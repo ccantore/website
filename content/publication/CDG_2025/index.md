@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: ""
 publication_short: ""
 
 abstract: "This paper studies how household heterogeneity affects the level and cyclical behavior of the optimal carbon tax in a real economy. We demonstrate that an equity-efficiency trade-off arises due to income inequality and heterogeneity in the marginal disutility of pollution. Two scenarios are analyzed: one with unrestricted income redistribution to mitigate inequality and another where redistribution is constrained to carbon tax revenues. Our findings reveal that household heterogeneity and redistribution policies significantly shape the level and cyclical behavior of the optimal carbon tax, decoupling it from the social cost of carbon. When the planner prioritizes redistribution towards poorer households, the optimal tax rate is lower than in the unconstrained scenario, and its fluctuations are amplified by countercyclical inequality."
