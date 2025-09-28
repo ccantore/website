@@ -98,7 +98,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) of Sapienza University of Rome.
+I am a Professor of Economics at the [Department of Economics and Law](https://ecodir.web.uniroma1.it/en) of Sapienza University of Rome.
 I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/CFM/about/people) and a Senior Fellow at the [Rimini Centre for Economic Analysis](https://www.rcea.world/home).
 
 **What's new?**
