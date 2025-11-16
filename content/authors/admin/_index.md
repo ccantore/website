@@ -104,8 +104,8 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[September 2025]</span> New version of "[A Tail of Labor Supply and a Tail of Monetary Policy](http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf)"
-- <span style="color:red">[September 2025]</span> Presenting "The Unequal Costs of Pollution: Carbon Tax, Inequality, and Redistribution" at the [PSE Macro Days](https://www.parisschoolofeconomics.eu/en/events/pse-macro-days-2025-2/) 
+- <span style="color:red">[November 2025]</span> New WP "[Monetary–Fiscal Interactions and the Liquidity Channel of Debt Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747203)"
+- <span style="color:red">[November 2025]</span> New Policy Note "[Monetary Policy and Labor Supply in the Euro Area](https://economy-finance.ec.europa.eu/publications/quarterly-report-euro-area-qrea-vol-24-no-3-2025_en#details)"
 
 
 
