@@ -1,5 +1,5 @@
 ---
-title: Media and links
+title: Policy, Media and Links
 summary:
 date: 2020-10-10
 weight: 110
@@ -14,7 +14,9 @@ header:
   caption: ""
   image: ""
 ---
-#### In the Media
+#### Policy Contributions and Media Coverage
+
+* European Commission's Institutional Paper 326: <a"href=https://economy-finance.ec.europa.eu/publications/quarterly-report-euro-area-qrea-vol-24-no-3-2025_en#details"> Monetary Policy and Labor Supply in the Euro Area</a> Quarterly Report on the Euro Area (QREA), Vol. 24, No. 3 (2025)
 
 * Article on **Menabò** (*in Italian*): <a href="https://eticaeconomia.it/disuguaglianza-e-politica-monetaria/">Disuguaglianza e Politica Monetaria</a>
 
