@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Monetary–Fiscal Interactions and the Liquidity Channel of Debt Sustainability"
-authors: ["Cristiano Cantore", "Matteo Gatto", "Francesco Saverio Gaudio", "Pascal Meichtry]
+authors: ["Cristiano Cantore", "Matteo Gatto", "Francesco Saverio Gaudio", "Pascal Meichtry"]
 date: 2025-11-16
 doi:
 
