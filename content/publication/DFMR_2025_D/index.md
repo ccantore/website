@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "UnequalDecoupling"
+title: "Unequal Decoupling"
 authors: ["S. de Ferra, G. Fritsch, K. Mitman, F. Romei"]
 date: 2025-12-18
 doi:
