@@ -47,9 +47,8 @@ Tutto il materiale del corso e' disponibile [qui](https://elearning.unitelma.it/
 
 * <b> [HANK Models](https://www.redphd.it/public/red/files/HANK_Cantore_syllabus.pdf) </b> ([RED PhD in Economics](https://www.redphd.it) - EIEF, Luiss, Sapienza \& Tor Vergata)
 
-* <b> Macroeconomic Theory and Policy </b> (MSc in Economics - Sapienza University)
-  - Last year syllabus available [here](https://www.dropbox.com/scl/fi/78xxqnk6c0hdzy8amd0kc/TPM_syllabus.pdf?rlkey=mn9v97ssi0bb5usps56158maz&dl=0)
-  - This year syllabus will be available soon.
+* <b> Macroeconomic Theories and Policies </b> (MSc in Economics - Sapienza University)
+  - Material available on [Moodle](https://elearning.uniroma1.it/course/view.php?id=20968)
 
 <!-- * <b> Politica Economica </b> (Undergraduate - Sapienza University)
 {{< spoiler text="Programma" >}}
