@@ -16,7 +16,7 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*mimeo*"
+publication: "*Draft coming soon*"
 publication_short: ""
 
 abstract: "We study how trade openness and the trade balance shape the sensitivity of aggregate consumption in small open economies with heterogeneous households. In a two-agent small-open-economy New Keynesian model with asymmetric import and export openness, we show that short-run domestic transmission of real-rate shocks can be analytically decomposed into two channels: intertemporal substitution and expenditure switching, scaled by an equilibrium multiplier that captures income effect attenuation due to open-economy leakage. This decomposition delivers closed-form thresholds for when openness and heterogeneity amplify or attenuate the consumption response and clarifies how the trade balance shifts these regimes. Using cross-country data on trade balances, we document large and dispersed gaps between import and export openness across countries and use these data to discipline the prevalence of the regimes under plausible calibrations. We also analyze the response of consumption to foreign demand and to the world real interest rate."
