@@ -104,7 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[May 2026]</span> 3rd Sapienza Macro Days](https://ccantore.github.io/sapienza-macro-days/)"
+- <span style="color:red">[May 2026]</span> 3rd Sapienza Macro Days](https://ccantore.github.io/sapienza-macro-days/)
 
 
 
