@@ -104,8 +104,8 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[November 2025]</span> New WP "[Monetary–Fiscal Interactions and the Liquidity Channel of Debt Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747203)"
-- <span style="color:red">[November 2025]</span> New Policy Note "[Monetary Policy and Labor Supply in the Euro Area](https://economy-finance.ec.europa.eu/document/download/66b8501b-4d40-4c73-b62f-2e58c589eac8_en?filename=ip326_en.pdf#page=19)"
+- <span style="color:red">[May 2026]</span> 3rd Sapienza Macro Days](https://ccantore.github.io/sapienza-macro-days/)"
+
 
 
 
