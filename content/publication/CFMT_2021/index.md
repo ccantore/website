@@ -24,7 +24,7 @@ abstract: "We study the interaction between monetary policy and labor supply dec
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working papers"]
+tags: ["publications"]
 categories: []
 featured: false
 
