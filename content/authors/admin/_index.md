@@ -104,6 +104,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 **What's new?**
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
+- <span style="color:red">[March 2026]</span> [A tail of labor supply and a tale of monetary policy](http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf) has been accepted for publication in the Journal of the European Economic Association.
 - <span style="color:red">[May 2026]</span> [3rd Sapienza Macro Days](https://ccantore.github.io/sapienza-macro-days/)
 
 
