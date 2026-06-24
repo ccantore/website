@@ -12,9 +12,7 @@ Business Cycle Theory, Monetary and Fiscal Policy, Applied Macroeconomics
 
 Professor of Economics, Sapienza University of Rome. | from 03/2023
 
-Fellow at the Centre for International Macroeconomics, | from 09/2012
-
-University of Surrey.
+Fellow at the Centre for International Macroeconomics, University of Surrey. | from 09/2012
 
 Fellow at the Centre for Macroeconomics, London School of Economics. | from 09/2018
 
@@ -38,9 +36,7 @@ Fellow at the Rimini Centre for Economic Analysis. | 07/2024 to 07/2025
 
 Guest Lecturer, London School of Economics, London. | 01/2022 to 07/2022
 
-Bank of England Pole Director at the Centre for | 02/2021 to 02/2023
-
-Macroeconomics (LSE).
+Bank of England Pole Director at the Centre for Macroeconomics (LSE). | 02/2021 to 02/2023
 
 Research Advisor, Research Hub, Bank of England. | 07/2021 to 02/2023
 
@@ -112,21 +108,20 @@ Book Chapters
 Teaching
 
 - EIEF - (2025 - to date):
+  - PhD: HANK models (2025-to date).
 
-- PhD: HANK models (2025-to date).
-
-- Sapienza University of Roma - (2023 to date):
-
-- Undergraduate: Politica Economica (2023-2025), Economia Politica (2025-currently).
-- Masters: Economic Policy (2023), Teorie e Politiche Macroeconomiche (2023-2025), Macroeconomic Theory and Policy (2025-currently).
+- Sapienza University of Roma - (2023 to date):  
+  - Undergraduate: Politica Economica (2023-2025), Economia Politica (2025-currently).
+  - Masters: Economic Policy (2023), Teorie e Politiche Macroeconomiche (2023-2025), Macroeconomic Theory and Policy (2025-currently).
 
 - Monetary Economics and Aggregate Fluctuations, Master in Economics London School of Economics, London. | Jan-Apr. 2022
-- Introduction to Dynamic Macroeconomics, Master in Economics, Collegio Carlo Alberto, Turin. | 5-15/10/2021
-- University of Surrey - (2009 to 2022):
 
-- Undergraduate: Intermediate Macroeconomics Theory and Applications; International Economics and Finance; Economic Data Analysis.
-- Masters: Macroeconomics; International Trade; Advanced Economic Theory.
-- PhD: Advanced Macroeconomics I; Topics in Empirical Macroeconomics.
+- Introduction to Dynamic Macroeconomics, Master in Economics, Collegio Carlo Alberto, Turin. | 5-15/10/2021
+
+- University of Surrey - (2009 to 2022):
+  - Undergraduate: Intermediate Macroeconomics Theory and Applications; International Economics and Finance; Economic Data Analysis.
+  - Masters: Macroeconomics; International Trade; Advanced Economic Theory.
+  - PhD: Advanced Macroeconomics I; Topics in Empirical Macroeconomics.
 
 Training courses on DSGE models
 
