@@ -2,19 +2,19 @@ PWD /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacB
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.tex
-OUTPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.log
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/res.cls
+INPUT cv_cantore.tex
+OUTPUT cv_cantore.log
+INPUT ./res.cls
+INPUT ./res.cls
+INPUT res.cls
+INPUT ./res.cls
+INPUT ./res.cls
+INPUT ./res.cls
+INPUT ./res.cls
+INPUT ./res.cls
+INPUT res.cls
+INPUT ./res.cls
+INPUT res.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -396,9 +396,9 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux
-INPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.aux
+INPUT ./cv_cantore.aux
+INPUT cv_cantore.aux
+INPUT cv_cantore.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -441,7 +441,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-OUTPUT /Users/cristiano/EcoDir Dropbox/Cristiano Cantore/My Mac (Cristiano’s MacBook Pro)/Documents/GitHub/website/static/files/cv_cantore.pdf
+OUTPUT cv_cantore.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
