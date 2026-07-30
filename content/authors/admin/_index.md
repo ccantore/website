@@ -105,7 +105,7 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 
 <!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
 - <span style="color:red">[4 September 2026]</span> Deadline for [Call for Visiting PhD Students](https://www.dropbox.com/scl/fi/qbj4beus6ril8nx4mww5b/visiting_phd_call_2026_27.pdf?rlkey=d368guu1z22n2itbmkkvqx8s8&dl=0) at Sapienza University of Rome.
-- <span style="color:red">[September 2026]</span> [Ortygia Summer School](https://ortygiasummerschool.org/#home)
+- <span style="color:red">[September 2026]</span> [6th Sailing the Macro Workshop](https://sailingthemacro.org/#home)
 
 
 
