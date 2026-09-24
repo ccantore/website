@@ -35,6 +35,8 @@ links:
 #  url:
 - name: Working Paper
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747203"
+- name: Banque de France WP (2026)
+  url: "https://www.banque-france.fr/system/files/2026-07/Fiscal%20Sustainability%20when%20Public%20Debt%20is%20High%20The%20Role%20of%20Portfolio%20Liquidity.pdf"
 
 
 url_pdf:
