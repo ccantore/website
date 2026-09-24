@@ -4,7 +4,7 @@
 title: "A Tail of Labor Supply and a Tale of Monetary Policy"
 authors: ["Cristiano Cantore", "Filippo Ferroni", "Haroon Mumtaz", "Angeliki Theophilopoulou"]
 date: 2026-05-19
-doi: "10.1093/jeea/jvag030"
+#doi: "10.1093/jeea/jvag030"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-1T22:11:49+01:00
@@ -35,7 +35,7 @@ links:
 #  url:
 #- name: Coming soon
 #  url: ""
-- name: Published version
+- name: Published version - Open Access
   url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvag030/8687749"
 - name: UniBo WP (2025)
   url: "http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf"
