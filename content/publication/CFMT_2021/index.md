@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A tail of labor supply and a tale of monetary policy"
-authors: ["Cristiano Cantore", "Filippo Ferroni","Haroon Muntaz", "Angeliki Theophilopoulou"]
-date: 2025-03-08
-doi:
+title: "A Tail of Labor Supply and a Tale of Monetary Policy"
+authors: ["Cristiano Cantore", "Filippo Ferroni", "Haroon Mumtaz", "Angeliki Theophilopoulou"]
+date: 2026-05-19
+doi: "10.1093/jeea/jvag030"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-1T22:11:49+01:00
@@ -16,10 +16,10 @@ publishDate: 2020-11-1T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forthcoming*, ***Journal of the European Economic Association***"
+publication: "***Journal of the European Economic Association***, jvag030"
 publication_short: ""
 
-abstract: "We study the interaction between monetary policy and labor supply decisions at the household level. We uncover evidence of heterogeneous responses and a strong counter-cyclicality of hours worked in the left tail of the income distribution following a monetary policy shock in the U.S. Specifically, while aggregate hours and labor earnings decline after a monetary tightening, individuals at the bottom of the income distribution increase their hours worked. Moreover, this positive labor supply response is quantitatively significant, substantially dampening the decline in aggregate hours worked. We show that the empirical patterns are consistent with a standard one-asset HANK model featuring endogenous labor supply. The model reveals that strong income effects at the bottom of the distribution can account for the observed countercyclical labor responses, highlighting how labor supply adjustments act as an additional margin through which households smooth consumption. Comparing this specification to a model with a homogeneous labor supply, we find that labor supply heterogeneity reduces the aggregate MPC and attenuates the transmission of monetary policy through aggregate demand. As a result, the output cost of disinflation is lower in economies where poorer households can flexibly adjust their labor effort, easing the trade-off faced by the central bank."
+abstract: "We study the interaction between monetary policy and labor supply decisions at the household level. We uncover evidence of heterogeneous responses and a strong countercyclicality of hours worked in the left tail of the income distribution following a monetary policy shock in the US. Specifically, while aggregate hours and labor earnings decline after a monetary tightening, individuals at the bottom of the income distribution increase their hours worked. Moreover, this positive labor supply response is quantitatively significant, substantially dampening the decline in aggregate hours worked. We show that the empirical patterns are consistent with a standard one-asset HANK model featuring endogenous labor supply. The model reveals that strong income effects at the bottom of the distribution can account for the observed countercyclical labor responses, highlighting how labor supply adjustments act as an additional margin through which households smooth consumption. Comparing this specification to a model with a homogeneous labor supply, we find that labor supply heterogeneity reduces the aggregate MPC and attenuates the transmission of monetary policy through aggregate demand. As a result, the output cost of disinflation is lower in economies where poorer households can flexibly adjust their labor effort, easing the trade-off faced by the central bank."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,8 @@ links:
 #  url:
 #- name: Coming soon
 #  url: ""
+- name: Published version
+  url: "https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvag030/8687749"
 - name: UniBo WP (2025)
   url: "http://amsacta.unibo.it/id/eprint/8501/1/WP1210.pdf"
 
