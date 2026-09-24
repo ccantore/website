@@ -43,7 +43,7 @@ Business Cycle Theory, Monetary and Fiscal Policy, Applied Macroeconomics
 
 ## Publications
 
-(2026) A tail of labor supply and a tale of monetary policy , joint with Filippo Ferroni (University of Bologna), Haroon Mumtaz (Queen Mary University of London) and Angeliki Theophilopoulou (Brunel University London). Journal of the European Economic Association , Forthcoming .
+(2026) A tail of labor supply and a tale of monetary policy , joint with Filippo Ferroni (University of Bologna), Haroon Mumtaz (Queen Mary University of London) and Angeliki Theophilopoulou (Brunel University London). Journal of the European Economic Association , jvag030.
 
 (2025) Monetary-fiscal interaction and the liquidity of government debt , joint with Edoardo Leonardi (London School of Economics). European Economic Review , 173, 104979.
 
