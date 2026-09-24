@@ -40,6 +40,11 @@
   weight = 60
 
 [[main]]
+  name = "PhD Supervision"
+  url = "#supervision"
+  weight = 65
+
+[[main]]
   name = "Policy, Media and Links"
   url = "#media"
   weight = 70
