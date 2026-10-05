@@ -16,6 +16,8 @@ header:
 ---
 #### Policy Contributions and Media Coverage
 
+* Article on the **Financial Times**: <a href="https://www.ft.com/content/a060e1f6-e669-4657-af63-701053709c2d?syn-25a6b1a6=1">Breaking a central banking taboo</a>
+
 * Column on **VoxEU**: <a href="https://cepr.org/voxeu/columns/uncovering-labour-supply-channel-monetary-transmission">Uncovering the labour supply channel of monetary transmission</a>
 
 * European Commission's Institutional Paper 326: <a href="https://economy-finance.ec.europa.eu/publications/quarterly-report-euro-area-qrea-vol-24-no-3-2025_en#details"> Monetary Policy and Labor Supply in the Euro Area</a>, Quarterly Report on the Euro Area (QREA), Vol. 24, No. 3 (2025)

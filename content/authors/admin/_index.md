@@ -103,9 +103,8 @@ I am also an affiliate at the [Centre for Macroeconomics](https://www.lse.ac.uk/
 
 **What's new?**
 
-<!-- - <span style="color:red">[Deadline May 5th 2024]</span> Sailing the Macro [Call for Papers](https://sailingthemacro.com)--->
-- <span style="color:red">[4 September 2026]</span> Deadline for [Call for Visiting PhD Students](https://www.dropbox.com/scl/fi/qbj4beus6ril8nx4mww5b/visiting_phd_call_2026_27.pdf?rlkey=d368guu1z22n2itbmkkvqx8s8&dl=0) at Sapienza University of Rome.
-- <span style="color:red">[September 2026]</span> [6th Sailing the Macro Workshop](https://sailingthemacro.org/#home)
+- <span style="color:red">[3 October 2026]</span> [Fiscal sustainability when public debt is high: The role of portfolio liquidity](https://www.sciencedirect.com/science/article/pii/S0164070426000807) (with Matteo Gatto, Francesco Saverio Gaudio, and Pascal Meichtry) is now forthcoming in the *Journal of Macroeconomics* special issue on [Fiscal Policy, Monetary Policy, and Debt Sustainability](https://www.sciencedirect.com/special-issue/10RD1BLLCJV).
+- <span style="color:red">[29 September 2026]</span> The *Financial Times* article [Breaking a central banking taboo](https://www.ft.com/content/a060e1f6-e669-4657-af63-701053709c2d?syn-25a6b1a6=1) cites two of my papers on how monetary policy affects the labor supply.
 
 
 
