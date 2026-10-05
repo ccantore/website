@@ -3,8 +3,8 @@
 
 title: "Fiscal sustainability when public debt is high: The role of portfolio liquidity"
 authors: ["Cristiano Cantore", "Matteo Gatto", "Francesco Saverio Gaudio", "Pascal Meichtry"]
-date: 2025-11-16
-doi:
+date: 2026-10-03
+doi: "10.1016/j.jmacro.2026.103817"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-1T22:11:49+01:00
@@ -13,10 +13,10 @@ publishDate: 2020-11-1T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forthcoming*, ***Journal of Macroeconomics***"
+publication: "***Journal of Macroeconomics***, 103817"
 publication_short: ""
 
 abstract: "This paper examines how the steady-state debt-to-GDP ratio shapes the transmission of fiscal and monetary policy shocks in a tractable heterogeneous-agent New Keynesian model. When households value government debt for its liquidity services for self-insurance, higher debt levels amplify the adverse fiscal consequences of expansionary government spending shocks. With debt already high, fiscal expansions require the central bank to maintain higher real interest rates for longer to sustain liquid-asset demand and clear bond markets, raising debt servicing costs and reducing fiscal space. By contrast, the transmission of monetary expansions is largely insensitive to steady-state debt levels. The results highlight the crucial role of the liquidity premium and self-insurance motive in shaping the interaction between initial public indebtedness and debt sustainability."
@@ -24,7 +24,7 @@ abstract: "This paper examines how the steady-state debt-to-GDP ratio shapes the
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working papers"]
+tags: ["publications"]
 categories: []
 featured: false
 
@@ -33,7 +33,7 @@ featured: false
 links:
 #- name: Presentation
 #  url:
-- name: Forthcoming version
+- name: Published Version
   url: "https://www.sciencedirect.com/science/article/pii/S0164070426000807"
 - name: Banque de France WP (2026)
   url: "https://www.banque-france.fr/system/files/2026-07/Fiscal%20Sustainability%20when%20Public%20Debt%20is%20High%20The%20Role%20of%20Portfolio%20Liquidity.pdf"
