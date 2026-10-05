@@ -4,7 +4,7 @@
 title: "Fiscal sustainability when public debt is high: The role of portfolio liquidity"
 authors: ["Cristiano Cantore", "Matteo Gatto", "Francesco Saverio Gaudio", "Pascal Meichtry"]
 date: 2026-10-03
-doi: "10.1016/j.jmacro.2026.103817"
+#doi: "10.1016/j.jmacro.2026.103817"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-1T22:11:49+01:00
