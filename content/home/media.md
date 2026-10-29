@@ -16,6 +16,8 @@ header:
 ---
 #### Policy Contributions and Media Coverage
 
+* **SUERF** Policy Brief No. 1604: <a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/fiscal-sustainability-when-public-debt-is-high-the-role-of-portfolio-liquidity/">Fiscal sustainability when public debt is high: The role of portfolio liquidity</a>
+
 * Opinion **Chris Giles on Central Banks**: <a href="https://www.ft.com/content/a060e1f6-e669-4657-af63-701053709c2d?syn-25a6b1a6=1">Breaking a central banking taboo</a>, by Chris Giles. Citing <a href="https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvag030/8687749">A Tail of Labor Supply and a Tale of Monetary Policy</a> and <a href="https://economy-finance.ec.europa.eu/publications/quarterly-report-euro-area-qrea-vol-24-no-3-2025_en#details">Monetary Policy and Labor Supply in the Euro Area</a>.
 
 * Column on **VoxEU**: <a href="https://cepr.org/voxeu/columns/uncovering-labour-supply-channel-monetary-transmission">Uncovering the labour supply channel of monetary transmission</a>
